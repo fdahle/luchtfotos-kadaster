@@ -1,0 +1,66 @@
+# Kadaster aerial photographs of Delft and Rotterdam (1933-2002), served by the
+# DLCS heritage IIIF infrastructure while the Kadaster builds its own.
+#
+#   luchtfotos-kadaster run delft
+#   luchtfotos-kadaster run rotterdam --year 2002 --year 1992
+#   luchtfotos-kadaster publish delft
+#
+# Frames are never downloaded whole: a 1600 px overview places each one, and
+# refinement reads only grid regions of it near 1 m/px.
+
+# Presentation manifests: <manifest_base>/<site> holds every year of a site.
+manifest_base: https://dlc.services/iiif-resource/7/string1string2string3/luchtfotos-kadaster
+# DLCS export that came with the photographs: maps each image-service id to its
+# original filename, because the generated manifest labels canvases "Canvas n".
+image_index: images.csv
+# Working directory: resume state, per-epoch outputs, mosaics and caches.
+output_root: /data/ATM/01_projects/historic_cadaster/runs
+# What `publish` copies the results into; GitHub Pages serves it.
+site_dir: ../docs
+
+sites:
+  delft:
+    sheet: sheets/delft_b459_37Oost.txt
+  rotterdam:
+    sheet: sheets/rotterdam_b502_37Oost.txt
+
+reference:
+  wms_url: https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0
+  layer: Actueel_ortho25
+  chain_epochs: true
+
+matching:
+  # RoMa v2 is dense and kept every rotation of the 2002 Delft frame on the
+  # same footprint against PDOK; sparse tiled matching found nothing there.
+  romav2_setting: precise
+  max_matches: 5000
+  seed: 0
+
+coarse:
+  overview_px: 1600
+  search_half_width_m: 4000
+  resolution_m: 4.0
+  rotations_deg: [0, 90, 180, 270]
+  window_shift_m: 3000
+  max_photo_anchors: 8
+  min_inliers: 300
+  # A frame filling part of a shifted window matches a small share of it;
+  # the refinement RMSE gate is what verifies a placement.
+  min_inlier_fraction: 0.1
+
+refine:
+  grid: 4
+  resolution_m: 1.0
+  inlier_threshold_m: 4.0
+  max_rmse_m: 6.0
+  min_gcps: 20
+
+output:
+  max_gcps_per_image: 40
+  max_rcps_per_pair: 30
+  transformation: projective
+  # Annotation ids double as Allmaps map ids in the RCPs. `publish` writes
+  # docs/maps/<image-id>.json, so on GitHub Pages every id resolves to its file.
+  # Changing this needs a rerun (cached, rewrites ids only) and a publish.
+  annotation_base: https://fdahle.github.io/luchtfotos-kadaster/maps
+  annotation_suffix: .json

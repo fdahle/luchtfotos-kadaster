@@ -4,12 +4,10 @@ Historical aerial photographs from the Kadaster, georeferenced through IIIF
 and published as [Allmaps](https://allmaps.org) Georeference Annotations.
 Resource Control Points tie the photographs to each other.
 
-**Browse:** <https://fdahle.github.io/luchtfotos-kadaster/>. Every year and
-every photo opens directly in the Allmaps Viewer.
-
-This repository holds only annotations and statistics. The photographs remain
-the Kadaster's. They are served through IIIF from the DLCS heritage
-infrastructure while the Kadaster sets up its own.
+The repository holds the pipeline (`src/`, `config/`) and its published
+results (`docs/`). The photographs themselves remain the Kadaster's. They are
+served through IIIF from the DLCS heritage infrastructure while the Kadaster
+sets up its own, and the pipeline never downloads a full scan.
 
 ## Test set (October 2026)
 
@@ -33,11 +31,26 @@ its control points. That control comes from the current PDOK orthophoto for
 2002, and from the already placed newer photos for the older years. It measures
 agreement with modern imagery, not surveyed ground control.
 
-## Files
+Known limitations:
+
+- The 1930s masks still include the black corner marks.
+- Rotterdam 1934_37O-739 and 37O-749 have far fewer refinement inliers than the
+  other photos (4473 and 2545). They look plausible, but deserve a check.
+- One projective transformation per photo ignores relief and lens distortion.
+  Both cities are flat, so relief displacement shows up mainly on tall
+  buildings.
+
+## Published files (`docs/`)
+
+`docs/` is a static site. `docs/index.html` lists every year and photo, with
+links that open them in the Allmaps Viewer. It is not online yet. Once
+publishing is agreed with the Kadaster, it is served by GitHub Pages from
+`docs/` at `https://fdahle.github.io/luchtfotos-kadaster/`. The annotation ids
+already point there.
 
 | Path | Contents |
 |---|---|
-| `maps/<image-id>.json` | One Georeference Annotation. Its `id` is its own URL on this site |
+| `maps/<image-id>.json` | One Georeference Annotation. Its `id` is its own URL on the site |
 | `<site>/annotations.json` | AnnotationPage with every photo of the site |
 | `<site>/<year>/annotations.json` | AnnotationPage with one year |
 | `<site>/rcps.json`, `<site>/<year>/rcps.json` | Resource Control Points, see below |
@@ -49,9 +62,7 @@ records the canvas and the manifest the photo came from. The transformation
 is `projective`, with 40 GCPs in WGS84 that are spread over the photo, and an
 SVG mask that excludes the margins and data strip.
 
-To load a year in Allmaps: `https://viewer.allmaps.org/?url=https://fdahle.github.io/luchtfotos-kadaster/delft/1954/annotations.json`
-
-## Resource Control Points
+### Resource Control Points
 
 The RCPs are written in the format of
 [`@allmaps/attach`](https://github.com/allmaps/allmaps/tree/main/packages/attach):
@@ -78,38 +89,64 @@ const adjusted = AttachedTransformation.fromGeoreferencedMaps(maps, rcps).toGeor
 The annotations themselves are not adjusted jointly. Each one is fitted on
 its own, and the RCPs are there for the joint adjustment.
 
-## How the photos were placed
+## Running the pipeline
 
-1. **IIIF first.** No scan is downloaded whole. A reduced overview (1600 px
-   wide) gives each photo's approximate position. After that, only image
-   segments are read, as fixed tiles at reduced resolution. A cold run of a
-   city fetched about a quarter of the full-resolution pixels. The `iiif`
-   ledger in `report.json` covers only the latest run, which was served from
-   cache.
-2. **Location hint.** The only hint is one RD coordinate per city, the
-   sheet-index centre. Each overview is matched against an 8 × 8 km PDOK
-   window around that point. If that fails, the window is shifted by 3 km.
-   Photos that still don't match are placed by matching them against
-   neighbouring photos that are already placed.
-3. **Recent first, then backwards.** 2002 is matched against PDOK's current
-   orthophoto. Each older year is matched against the newer years' photos,
-   already placed and rendered from IIIF, with PDOK filling the gaps.
-4. **Refinement.** The photo is split into a 4 × 4 grid and every cell is
-   matched at about 1 m/px. A projective transformation is then fitted on all
-   inliers. Matching uses RoMa v2.
+```
+pip install -e .          # RoMa v2 wants a CUDA GPU; on CPU it is very slow
+luchtfotos-kadaster run delft
+luchtfotos-kadaster run rotterdam --year 2002 --year 1992
+luchtfotos-kadaster run delft --force      # ignore saved placements, refetch the manifest
+luchtfotos-kadaster publish delft          # copy the results into docs/
+pytest
+```
 
-## Known limitations
+`config/settings.yml` sets the manifests, sites, reference, matcher and
+thresholds. `output_root` is the working directory: resume state, per-epoch
+outputs, quick-look mosaics and the IIIF, PDOK and matcher caches. Change it
+to a local path. A run resumes every photo that is already placed. A rerun
+after changing `annotation_base` comes from cache and only rewrites the ids.
 
-- The 1930s masks still include the black corner marks.
-- Rotterdam 1934_37O-739 and 37O-749 have far fewer refinement inliers than the
-  other photos (4473 and 2545). They look plausible, but deserve a check.
-- One projective transformation per photo ignores relief and lens distortion.
-  Both cities are flat, so relief displacement shows up mainly on tall
-  buildings.
+`config/images.csv` is the DLCS export that came with the photographs. It maps
+each image-service id to its original file name, because the generated
+manifest labels canvases only "Canvas n". `config/sheets/*.txt` are the
+sheet-index notes that came with them: sheet number, RD centre and the
+photos of each year.
 
-## Producing the files
+## How a photo is placed
 
-The files are generated by the `kadaster` subproject of Felix Dahle's
-historical-SfM pipeline (`hist-sfm kadaster run <site>`, then
-`hist-sfm kadaster publish <site> --to <this checkout>`). Don't edit them by
-hand: the annotation ids and the RCP `mapId`s must stay in sync.
+1. **IIIF first, never the whole scan.** The manifest
+   `<manifest_base>/<site>` gives every photo's image service. The year comes
+   from the canvas metadata (`String 3`). A reduced overview
+   (`full/1600,/0/default.jpg`) gives the approximate position. After that only
+   image segments are read, as fixed 1024 px tiles at power-of-two scale
+   levels, the way a deep-zoom viewer reads an image. Overlapping requests,
+   such as a newer photo rendered again as reference for every older year,
+   then hit tiles already cached. A cold run of a city fetched about a quarter
+   of the full-resolution pixels. The `iiif` ledger in `report.json` covers
+   only the latest run.
+2. **Coarse placement from one location hint.** The only hint is one RD
+   coordinate per city, the `RD:` line of the sheet-index file. Each overview
+   is matched against an 8 × 8 km reference at 4 m/px around that point,
+   giving one projective transformation from image pixels to RD New
+   (EPSG:28992). Matches on the black margins and data strip are excluded
+   from the photo's mask. If the centred window fails, windows shifted by 3 km
+   are tried, then other rotations. A photo that still fails is matched
+   overview-to-overview against photos already placed, same year first, then
+   newer years. A reference built from many photos over PDOK can be much harder
+   to match than one of the photos it is made of. The 1930s photos and Delft
+   1961_37O-II-39 needed this fallback.
+3. **Recent first, then backwards.** The newest year is matched against PDOK's
+   current orthophoto (`Actueel_ortho25`). Each older year is matched against
+   the photos already placed from the newer years, warped onto RD from their
+   own IIIF tiles, with PDOK filling whatever they don't cover. A control point
+   taken from a newer photo is both a GCP and an RCP `link:` between the two
+   photos.
+4. **Refinement.** The placed photo is split into a 4 × 4 grid. Each cell is
+   read at about 1 m/px and matched against a reference rendered for exactly
+   that RD box. The transformation is then refitted on every inlier. A photo
+   passes at ≤ 6 m RMSE with at least 20 GCPs.
+
+Matching uses [RoMa v2](https://pypi.org/project/romav2/) (`precise`
+preset), a dense matcher that holds up across decades of change and
+arbitrary rotation. Results are cached under a hash of both images' bytes and
+the settings, and every pair is seeded, so a rerun reproduces them.

@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "luchtfotos-kadaster"
+version = "0.1.0"
+description = "Georeference Kadaster aerial photographs through IIIF and publish them as Allmaps Georeference Annotations"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "opencv-python-headless",
+    "pydantic>=2",
+    "pyproj",
+    "pyyaml",
+    "requests",
+    "shapely>=2",
+    "romav2",
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+luchtfotos-kadaster = "luchtfotos_kadaster.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
