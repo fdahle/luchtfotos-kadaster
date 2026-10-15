@@ -17,14 +17,14 @@ A vertical cut through time for two cities, every available epoch from the
 | | Delft (sheet b459 37 Oost) | | Rotterdam (sheet b502 37 Oost) | |
 |---|---|---|---|---|
 | **Year** | **Photos** | **RMSE (m)** | **Photos** | **RMSE (m)** |
-| 2002 | 4 | 1.9–2.2 | 3 | 1.8–1.9 |
-| 1992 | 4 | 1.5–2.2 | 2 | 1.6–1.9 |
-| 1981 | 3 | 2.2 | 4 | 1.8–2.5 |
-| 1971 | 2 | 1.7–2.0 | 3 | 2.2–2.3 |
-| 1961 | 2 | 1.7–2.2 | 3 | 1.8–2.1 |
-| 1954 | 2 | 1.5–2.3 | 2 | 2.2–2.4 |
-| 1933 / 1934 | 2 | 1.6–1.9 | 3 | 1.8–2.5 |
-| **RCPs** | 2158 | | 2260 | |
+| 2002 | 4 | 1.8–2.2 | 3 | 1.8–1.9 |
+| 1992 | 4 | 1.5–2.3 | 2 | 1.6–1.9 |
+| 1981 | 3 | 2.1–2.2 | 4 | 1.8–2.5 |
+| 1971 | 2 | 1.7–2.0 | 3 | 2.2 |
+| 1961 | 2 | 1.7–2.1 | 3 | 1.8–2.1 |
+| 1954 | 2 | 1.4–1.9 | 2 | 2.2–2.3 |
+| 1933 / 1934 | 2 | 1.6–1.9 | 3 | 1.8–2.3 |
+| **RCPs** | 2160 | | 2252 | |
 
 All photos are placed. The RMSE is the fit of each photo's transformation to
 its control points. That control comes from the current PDOK orthophoto for
@@ -34,8 +34,14 @@ agreement with modern imagery, not surveyed ground control.
 Known limitations:
 
 - The 1930s masks still include the black corner marks.
-- Rotterdam 1934_37O-739 and 37O-749 have far fewer refinement inliers than the
-  other photos (4473 and 2545). They look plausible, but deserve a check.
+- **Rotterdam 1934_37O-739 is controlled only locally.** Its control points
+  cover about 13 % of the photo, so the transformation over the rest is
+  extrapolated. Two runs that fit their control equally well (about 2 m)
+  disagree by 13 m at the centre and up to 68 m at a corner. Treat its edges as
+  unreliable. 1934_37O-749 is better covered (about 45 %), but rests on only
+  about 2000 inliers, and moved 4 m at the centre between the same two runs.
+  The RCPs to neighbouring photos are what a joint adjustment can use to hold
+  them.
 - One projective transformation per photo ignores relief and lens distortion.
   Both cities are flat, so relief displacement shows up mainly on tall
   buildings.

@@ -55,7 +55,7 @@
      "name": "2002_37111",
      "year": 2002,
      "status": "ok",
-     "rmse_m": 1.86,
+     "rmse_m": 1.84,
      "map": "maps/0de855ee51500a189d7669bb32759f31.json"
     },
     {
@@ -90,98 +90,98 @@
      "name": "1992_37112",
      "year": 1992,
      "status": "ok",
-     "rmse_m": 1.69,
+     "rmse_m": 1.68,
      "map": "maps/362d38fbea28a60419c8592e90668687.json"
     },
     {
      "name": "1992_37217",
      "year": 1992,
      "status": "ok",
-     "rmse_m": 1.83,
+     "rmse_m": 1.85,
      "map": "maps/4c30c124e0dfb9f6fe3bba8dab8ee900.json"
     },
     {
      "name": "1992_37219",
      "year": 1992,
      "status": "ok",
-     "rmse_m": 2.18,
+     "rmse_m": 2.32,
      "map": "maps/9d43b0e9c2c1548c55415e34c3e3876a.json"
     },
     {
      "name": "1981_37111",
      "year": 1981,
      "status": "ok",
-     "rmse_m": 2.16,
+     "rmse_m": 2.19,
      "map": "maps/537c70047c4e4481f810307f9127c0dd.json"
     },
     {
      "name": "1981_37216",
      "year": 1981,
      "status": "ok",
-     "rmse_m": 2.17,
+     "rmse_m": 2.14,
      "map": "maps/e5ab991193cf54ff1f5a60cbc53af05b.json"
     },
     {
      "name": "1981_37218",
      "year": 1981,
      "status": "ok",
-     "rmse_m": 2.21,
+     "rmse_m": 2.22,
      "map": "maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json"
     },
     {
      "name": "1971_37O-I-12",
      "year": 1971,
      "status": "ok",
-     "rmse_m": 1.73,
+     "rmse_m": 1.69,
      "map": "maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json"
     },
     {
      "name": "1971_37O-II-43",
      "year": 1971,
      "status": "ok",
-     "rmse_m": 1.98,
+     "rmse_m": 2.02,
      "map": "maps/c999f479c6a450211f543c8091ca8853.json"
     },
     {
      "name": "1961_37O-I-13",
      "year": 1961,
      "status": "ok",
-     "rmse_m": 1.72,
+     "rmse_m": 1.68,
      "map": "maps/e50d3bab058deb0714d6c59df074db72.json"
     },
     {
      "name": "1961_37O-II-39",
      "year": 1961,
      "status": "ok",
-     "rmse_m": 2.17,
+     "rmse_m": 2.15,
      "map": "maps/deef544402d3bf4ffcf9dfa4abc03ec7.json"
     },
     {
      "name": "1954_37O-I-14",
      "year": 1954,
      "status": "ok",
-     "rmse_m": 1.48,
+     "rmse_m": 1.43,
      "map": "maps/c2208160db6a8ea6d047612bc3000dff.json"
     },
     {
      "name": "1954_37O-II-43",
      "year": 1954,
      "status": "ok",
-     "rmse_m": 2.28,
+     "rmse_m": 1.87,
      "map": "maps/087c26dba01d762854b60e8805c2f8bb.json"
     },
     {
      "name": "1933_459-608",
      "year": 1933,
      "status": "ok",
-     "rmse_m": 1.92,
+     "rmse_m": 1.9,
      "map": "maps/71d6ea701833379e3b222b340bb38867.json"
     },
     {
      "name": "1933_459-609",
      "year": 1933,
      "status": "ok",
-     "rmse_m": 1.59,
+     "rmse_m": 1.57,
      "map": "maps/6b4a82f7191bf6871a9b7ce7228d239e.json"
     }
    ]
@@ -241,7 +241,7 @@
      "name": "2002_37422",
      "year": 2002,
      "status": "ok",
-     "rmse_m": 1.75,
+     "rmse_m": 1.76,
      "map": "maps/499744c99d510a5e0f60e4fb528b6fa8.json"
     },
     {
@@ -262,28 +262,28 @@
      "name": "1992_37421",
      "year": 1992,
      "status": "ok",
-     "rmse_m": 1.63,
+     "rmse_m": 1.64,
      "map": "maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json"
     },
     {
      "name": "1992_37423",
      "year": 1992,
      "status": "ok",
-     "rmse_m": 1.9,
+     "rmse_m": 1.92,
      "map": "maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json"
     },
     {
      "name": "1981_37422",
      "year": 1981,
      "status": "ok",
-     "rmse_m": 1.81,
+     "rmse_m": 1.82,
      "map": "maps/a85c0d12742d369782a7e507dd5416c9.json"
     },
     {
      "name": "1981_37424",
      "year": 1981,
      "status": "ok",
-     "rmse_m": 1.89,
+     "rmse_m": 1.88,
      "map": "maps/6190237af48ed1d0c08db4d9d4541b64.json"
     },
     {
@@ -297,84 +297,84 @@
      "name": "1981_37523",
      "year": 1981,
      "status": "ok",
-     "rmse_m": 2.37,
+     "rmse_m": 2.43,
      "map": "maps/1aafdb32e74d573b86e63003d205b58a.json"
     },
     {
      "name": "1971_37O-V-131",
      "year": 1971,
      "status": "ok",
-     "rmse_m": 2.22,
+     "rmse_m": 2.24,
      "map": "maps/e648ff3e55f272ffce553cfd0dec3fa7.json"
     },
     {
      "name": "1971_37O-V-132",
      "year": 1971,
      "status": "ok",
-     "rmse_m": 2.29,
+     "rmse_m": 2.24,
      "map": "maps/e7e03741e0e5dd7dc636e9a0056434d0.json"
     },
     {
      "name": "1971_37O-V-133",
      "year": 1971,
      "status": "ok",
-     "rmse_m": 2.2,
+     "rmse_m": 2.18,
      "map": "maps/7c78c51a7987bdbbbd695ee4ec484d82.json"
     },
     {
      "name": "1961_37O-V-114",
      "year": 1961,
      "status": "ok",
-     "rmse_m": 2.08,
+     "rmse_m": 2.12,
      "map": "maps/b908d23da0243ecbeb13f3516b4a8a45.json"
     },
     {
      "name": "1961_37O-V-116",
      "year": 1961,
      "status": "ok",
-     "rmse_m": 2.06,
+     "rmse_m": 2.09,
      "map": "maps/d3bc5bf18d15dbefac198aa14b281936.json"
     },
     {
      "name": "1961_37O-V-118",
      "year": 1961,
      "status": "ok",
-     "rmse_m": 1.82,
+     "rmse_m": 1.79,
      "map": "maps/f0c11b43a1922a2a800738a2843bfefd.json"
     },
     {
      "name": "1954_37O-V-134",
      "year": 1954,
      "status": "ok",
-     "rmse_m": 2.36,
+     "rmse_m": 2.34,
      "map": "maps/9538f2bed90dd6b0d130522030c7ae84.json"
     },
     {
      "name": "1954_37O-V-137",
      "year": 1954,
      "status": "ok",
-     "rmse_m": 2.16,
+     "rmse_m": 2.21,
      "map": "maps/eb4f75da06579a579ac7afdb31a03d1c.json"
     },
     {
      "name": "1934_37O-739",
      "year": 1934,
      "status": "ok",
-     "rmse_m": 2.04,
+     "rmse_m": 1.91,
      "map": "maps/53ee37ac0dd0d542a5a0b0f4433d8587.json"
     },
     {
      "name": "1934_37O-749",
      "year": 1934,
      "status": "ok",
-     "rmse_m": 2.48,
+     "rmse_m": 2.31,
      "map": "maps/bb0898f8c05835ea80636847d95412a2.json"
     },
     {
      "name": "1934_37O-751",
      "year": 1934,
      "status": "ok",
-     "rmse_m": 1.79,
+     "rmse_m": 1.76,
      "map": "maps/bc9c4871ead5af270c0a56e4259f7300.json"
     }
    ]

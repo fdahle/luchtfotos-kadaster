@@ -18,17 +18,17 @@
    "gcps": 40,
    "links": 0,
    "coarse_matches": 5000,
-   "coarse_inliers": 3856,
+   "coarse_inliers": 3837,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
-   "coarse_gsd_m": 0.3855,
-   "refine_matches": 47278,
-   "refine_inliers": 42847,
-   "rmse_m": 1.86,
-   "median_residual_m": 1.47,
-   "gsd_m": 0.3854,
+   "coarse_gsd_m": 0.3856,
+   "refine_matches": 44196,
+   "refine_inliers": 40819,
+   "rmse_m": 1.84,
+   "median_residual_m": 1.45,
+   "gsd_m": 0.3853,
    "control_from_newer_epochs": 0.0
   },
   {
@@ -114,16 +114,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 2520,
+   "coarse_inliers": 2469,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
-   "coarse_gsd_m": 0.3851,
-   "refine_matches": 64660,
-   "refine_inliers": 62886,
+   "coarse_gsd_m": 0.3852,
+   "refine_matches": 64684,
+   "refine_inliers": 62783,
    "rmse_m": 1.54,
-   "median_residual_m": 1.04,
+   "median_residual_m": 1.07,
    "gsd_m": 0.3847,
    "control_from_newer_epochs": 1.0
   },
@@ -136,18 +136,18 @@
    "status": "ok",
    "reason": "",
    "gcps": 40,
-   "links": 39,
+   "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 4088,
+   "coarse_inliers": 4082,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
-   "coarse_gsd_m": 0.3853,
-   "refine_matches": 34473,
-   "refine_inliers": 32105,
-   "rmse_m": 1.69,
-   "median_residual_m": 1.28,
+   "coarse_gsd_m": 0.3854,
+   "refine_matches": 34097,
+   "refine_inliers": 31723,
+   "rmse_m": 1.68,
+   "median_residual_m": 1.25,
    "gsd_m": 0.3851,
    "control_from_newer_epochs": 0.998
   },
@@ -162,16 +162,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 730,
+   "coarse_inliers": 735,
    "coarse_window_shift_m": [
     -3000.0,
     0.0
    ],
-   "coarse_gsd_m": 0.386,
-   "refine_matches": 63612,
-   "refine_inliers": 60501,
-   "rmse_m": 1.83,
-   "median_residual_m": 1.42,
+   "coarse_gsd_m": 0.3861,
+   "refine_matches": 63697,
+   "refine_inliers": 60368,
+   "rmse_m": 1.85,
+   "median_residual_m": 1.46,
    "gsd_m": 0.3853,
    "control_from_newer_epochs": 1.0
   },
@@ -186,18 +186,18 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 2254,
+   "coarse_inliers": 2434,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
-   "coarse_gsd_m": 0.3864,
-   "refine_matches": 32173,
-   "refine_inliers": 26633,
-   "rmse_m": 2.18,
-   "median_residual_m": 1.92,
-   "gsd_m": 0.3863,
-   "control_from_newer_epochs": 0.995
+   "coarse_gsd_m": 0.3858,
+   "refine_matches": 33083,
+   "refine_inliers": 27169,
+   "rmse_m": 2.32,
+   "median_residual_m": 2.11,
+   "gsd_m": 0.3862,
+   "control_from_newer_epochs": 0.989
   },
   {
    "key": "delft_1981_37111",
@@ -210,17 +210,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 4303,
+   "coarse_inliers": 4332,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
-   "coarse_gsd_m": 0.38,
-   "refine_matches": 65522,
-   "refine_inliers": 60609,
-   "rmse_m": 2.16,
-   "median_residual_m": 1.88,
-   "gsd_m": 0.3799,
+   "coarse_gsd_m": 0.3799,
+   "refine_matches": 65414,
+   "refine_inliers": 59903,
+   "rmse_m": 2.19,
+   "median_residual_m": 1.92,
+   "gsd_m": 0.38,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -234,16 +234,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 2904,
+   "coarse_inliers": 2944,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.3868,
-   "refine_matches": 51287,
-   "refine_inliers": 45872,
-   "rmse_m": 2.17,
-   "median_residual_m": 1.88,
+   "refine_matches": 50991,
+   "refine_inliers": 44249,
+   "rmse_m": 2.14,
+   "median_residual_m": 1.82,
    "gsd_m": 0.3865,
    "control_from_newer_epochs": 1.0
   },
@@ -258,18 +258,18 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3968,
+   "coarse_inliers": 3964,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.3869,
-   "refine_matches": 35349,
-   "refine_inliers": 30927,
-   "rmse_m": 2.21,
-   "median_residual_m": 1.93,
-   "gsd_m": 0.3874,
-   "control_from_newer_epochs": 0.997
+   "refine_matches": 36451,
+   "refine_inliers": 31965,
+   "rmse_m": 2.22,
+   "median_residual_m": 1.95,
+   "gsd_m": 0.3873,
+   "control_from_newer_epochs": 0.994
   },
   {
    "key": "delft_1971_37O-I-12",
@@ -282,16 +282,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 2076,
+   "coarse_inliers": 2435,
    "coarse_window_shift_m": [
-    0.0,
+    -3000.0,
     0.0
    ],
-   "coarse_gsd_m": 0.4258,
-   "refine_matches": 70697,
-   "refine_inliers": 67841,
-   "rmse_m": 1.73,
-   "median_residual_m": 1.34,
+   "coarse_gsd_m": 0.4256,
+   "refine_matches": 70986,
+   "refine_inliers": 67988,
+   "rmse_m": 1.69,
+   "median_residual_m": 1.3,
    "gsd_m": 0.4254,
    "control_from_newer_epochs": 1.0
   },
@@ -306,17 +306,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3903,
+   "coarse_inliers": 4016,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
-   "coarse_gsd_m": 0.4258,
-   "refine_matches": 49793,
-   "refine_inliers": 45467,
-   "rmse_m": 1.98,
-   "median_residual_m": 1.61,
-   "gsd_m": 0.4257,
+   "coarse_gsd_m": 0.4257,
+   "refine_matches": 49532,
+   "refine_inliers": 45318,
+   "rmse_m": 2.02,
+   "median_residual_m": 1.71,
+   "gsd_m": 0.4255,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -330,17 +330,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3291,
+   "coarse_inliers": 3325,
    "coarse_window_shift_m": [
     -3000.0,
     0.0
    ],
-   "coarse_gsd_m": 0.4304,
-   "refine_matches": 44924,
-   "refine_inliers": 41520,
-   "rmse_m": 1.72,
-   "median_residual_m": 1.33,
-   "gsd_m": 0.4302,
+   "coarse_gsd_m": 0.4303,
+   "refine_matches": 45860,
+   "refine_inliers": 42823,
+   "rmse_m": 1.68,
+   "median_residual_m": 1.28,
+   "gsd_m": 0.4303,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -354,14 +354,14 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 2688,
-   "coarse_anchor": "delft_1981_37111",
-   "coarse_gsd_m": 0.429,
-   "refine_matches": 26747,
-   "refine_inliers": 22510,
-   "rmse_m": 2.17,
-   "median_residual_m": 1.85,
-   "gsd_m": 0.4312,
+   "coarse_inliers": 4731,
+   "coarse_anchor": "delft_1961_37O-I-13",
+   "coarse_gsd_m": 0.4335,
+   "refine_matches": 24918,
+   "refine_inliers": 20600,
+   "rmse_m": 2.15,
+   "median_residual_m": 1.84,
+   "gsd_m": 0.431,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -375,17 +375,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 1753,
+   "coarse_inliers": 3226,
    "coarse_window_shift_m": [
     -3000.0,
-    0.0
+    3000.0
    ],
-   "coarse_gsd_m": 0.4141,
-   "refine_matches": 52423,
-   "refine_inliers": 49708,
-   "rmse_m": 1.48,
-   "median_residual_m": 1.15,
-   "gsd_m": 0.4138,
+   "coarse_gsd_m": 0.4135,
+   "refine_matches": 51946,
+   "refine_inliers": 49247,
+   "rmse_m": 1.43,
+   "median_residual_m": 1.06,
+   "gsd_m": 0.4139,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -399,17 +399,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 1686,
+   "coarse_inliers": 1356,
    "coarse_window_shift_m": [
-    0.0,
+    -3000.0,
     3000.0
    ],
-   "coarse_gsd_m": 0.4141,
-   "refine_matches": 29910,
-   "refine_inliers": 25251,
-   "rmse_m": 2.28,
-   "median_residual_m": 2.04,
-   "gsd_m": 0.4146,
+   "coarse_gsd_m": 0.4132,
+   "refine_matches": 52601,
+   "refine_inliers": 47394,
+   "rmse_m": 1.87,
+   "median_residual_m": 1.34,
+   "gsd_m": 0.4138,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -425,12 +425,12 @@
    "coarse_matches": 5000,
    "coarse_inliers": 3118,
    "coarse_anchor": "delft_1954_37O-II-43",
-   "coarse_gsd_m": 0.2128,
-   "refine_matches": 24956,
-   "refine_inliers": 20854,
-   "rmse_m": 1.92,
-   "median_residual_m": 1.55,
-   "gsd_m": 0.2128,
+   "coarse_gsd_m": 0.2131,
+   "refine_matches": 27154,
+   "refine_inliers": 23909,
+   "rmse_m": 1.9,
+   "median_residual_m": 1.51,
+   "gsd_m": 0.2126,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -447,10 +447,10 @@
    "coarse_inliers": 2026,
    "coarse_anchor": "delft_1961_37O-I-13",
    "coarse_gsd_m": 0.2128,
-   "refine_matches": 26828,
-   "refine_inliers": 25066,
-   "rmse_m": 1.59,
-   "median_residual_m": 1.15,
+   "refine_matches": 26855,
+   "refine_inliers": 25373,
+   "rmse_m": 1.57,
+   "median_residual_m": 1.12,
    "gsd_m": 0.2133,
    "control_from_newer_epochs": 1.0
   }
@@ -460,14 +460,14 @@
    "a": "delft_2002_37111",
    "b": "delft_2002_37113",
    "overlap": 0.196,
-   "inliers": 4762,
+   "inliers": 4716,
    "rcps": 30
   },
   {
    "a": "delft_2002_37111",
    "b": "delft_2002_37216",
    "overlap": 0.225,
-   "inliers": 4574,
+   "inliers": 4596,
    "rcps": 30
   },
   {
@@ -488,92 +488,92 @@
    "a": "delft_1992_37110",
    "b": "delft_1992_37112",
    "overlap": 0.158,
-   "inliers": 4370,
+   "inliers": 4406,
    "rcps": 30
   },
   {
    "a": "delft_1992_37110",
    "b": "delft_1992_37217",
    "overlap": 0.237,
-   "inliers": 4553,
+   "inliers": 4541,
    "rcps": 30
   },
   {
    "a": "delft_1992_37112",
    "b": "delft_1992_37217",
    "overlap": 0.061,
-   "inliers": 3911,
+   "inliers": 3900,
    "rcps": 30
   },
   {
    "a": "delft_1992_37112",
    "b": "delft_1992_37219",
    "overlap": 0.223,
-   "inliers": 4766,
+   "inliers": 4743,
    "rcps": 30
   },
   {
    "a": "delft_1992_37217",
    "b": "delft_1992_37219",
    "overlap": 0.231,
-   "inliers": 4627,
+   "inliers": 4641,
    "rcps": 30
   },
   {
    "a": "delft_1981_37111",
    "b": "delft_1981_37216",
    "overlap": 0.209,
-   "inliers": 4548,
+   "inliers": 4520,
    "rcps": 30
   },
   {
    "a": "delft_1981_37111",
    "b": "delft_1981_37218",
    "overlap": 0.085,
-   "inliers": 4513,
+   "inliers": 4519,
    "rcps": 30
   },
   {
    "a": "delft_1981_37216",
    "b": "delft_1981_37218",
    "overlap": 0.192,
-   "inliers": 4800,
+   "inliers": 4805,
    "rcps": 30
   },
   {
    "a": "delft_1971_37O-I-12",
    "b": "delft_1971_37O-II-43",
    "overlap": 0.092,
-   "inliers": 4916,
+   "inliers": 4915,
    "rcps": 30
   },
   {
    "a": "delft_1961_37O-I-13",
    "b": "delft_1961_37O-II-39",
    "overlap": 0.214,
-   "inliers": 3986,
+   "inliers": 4134,
    "rcps": 30
   },
   {
    "a": "delft_1954_37O-I-14",
    "b": "delft_1954_37O-II-43",
-   "overlap": 0.185,
-   "inliers": 3779,
+   "overlap": 0.186,
+   "inliers": 3872,
    "rcps": 30
   },
   {
    "a": "delft_1933_459-608",
    "b": "delft_1933_459-609",
-   "overlap": 0.369,
-   "inliers": 4755,
+   "overlap": 0.37,
+   "inliers": 4658,
    "rcps": 30
   }
  ],
- "rcps": 2158,
+ "rcps": 2160,
  "iiif": {
-  "requests": 0,
-  "cache_hits": 390,
-  "bytes_downloaded": 0,
+  "requests": 1,
+  "cache_hits": 9484,
+  "bytes_downloaded": 51484,
   "delivered_px": 0,
   "full_resolution_px": 2114046751,
   "delivered_fraction": 0.0,
@@ -675,12 +675,10 @@
    }
   }
  },
- "pdok_requests": 0,
+ "pdok_requests": 263,
  "matcher": {
-  "requests": 16,
-  "cache_hits": 16,
-  "legacy_cache_hits": 0,
-  "cache_misses": 0,
-  "worker_invocations": 0
+  "requests": 413,
+  "cache_hits": 0,
+  "cache_misses": 413
  }
 }

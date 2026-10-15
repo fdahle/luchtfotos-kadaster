@@ -18,16 +18,16 @@
    "gcps": 40,
    "links": 0,
    "coarse_matches": 5000,
-   "coarse_inliers": 3631,
+   "coarse_inliers": 3612,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.3855,
-   "refine_matches": 57295,
-   "refine_inliers": 54507,
-   "rmse_m": 1.75,
-   "median_residual_m": 1.42,
+   "refine_matches": 54292,
+   "refine_inliers": 51450,
+   "rmse_m": 1.76,
+   "median_residual_m": 1.43,
    "gsd_m": 0.3851,
    "control_from_newer_epochs": 0.0
   },
@@ -88,20 +88,20 @@
    "status": "ok",
    "reason": "",
    "gcps": 40,
-   "links": 40,
+   "links": 38,
    "coarse_matches": 5000,
-   "coarse_inliers": 3207,
+   "coarse_inliers": 3351,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.3815,
-   "refine_matches": 73646,
-   "refine_inliers": 71597,
-   "rmse_m": 1.63,
-   "median_residual_m": 1.23,
+   "refine_matches": 73391,
+   "refine_inliers": 71406,
+   "rmse_m": 1.64,
+   "median_residual_m": 1.25,
    "gsd_m": 0.3813,
-   "control_from_newer_epochs": 0.993
+   "control_from_newer_epochs": 0.994
   },
   {
    "key": "rotterdam_1992_37423",
@@ -114,16 +114,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 4885,
+   "coarse_inliers": 4892,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.3815,
-   "refine_matches": 68284,
-   "refine_inliers": 60919,
-   "rmse_m": 1.9,
-   "median_residual_m": 1.44,
+   "refine_matches": 68095,
+   "refine_inliers": 61648,
+   "rmse_m": 1.92,
+   "median_residual_m": 1.47,
    "gsd_m": 0.3815,
    "control_from_newer_epochs": 0.997
   },
@@ -136,18 +136,18 @@
    "status": "ok",
    "reason": "",
    "gcps": 40,
-   "links": 40,
+   "links": 39,
    "coarse_matches": 5000,
-   "coarse_inliers": 3856,
+   "coarse_inliers": 3917,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.3775,
-   "refine_matches": 66071,
-   "refine_inliers": 63724,
-   "rmse_m": 1.81,
-   "median_residual_m": 1.47,
+   "refine_matches": 66048,
+   "refine_inliers": 63826,
+   "rmse_m": 1.82,
+   "median_residual_m": 1.48,
    "gsd_m": 0.3776,
    "control_from_newer_epochs": 0.993
   },
@@ -162,18 +162,18 @@
    "gcps": 40,
    "links": 38,
    "coarse_matches": 5000,
-   "coarse_inliers": 4201,
+   "coarse_inliers": 4246,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.3783,
-   "refine_matches": 50373,
-   "refine_inliers": 47320,
-   "rmse_m": 1.89,
-   "median_residual_m": 1.53,
-   "gsd_m": 0.3785,
-   "control_from_newer_epochs": 0.971
+   "refine_matches": 50982,
+   "refine_inliers": 48024,
+   "rmse_m": 1.88,
+   "median_residual_m": 1.52,
+   "gsd_m": 0.3784,
+   "control_from_newer_epochs": 0.967
   },
   {
    "key": "rotterdam_1981_37521",
@@ -184,20 +184,20 @@
    "status": "ok",
    "reason": "",
    "gcps": 40,
-   "links": 8,
+   "links": 5,
    "coarse_matches": 5000,
-   "coarse_inliers": 816,
+   "coarse_inliers": 795,
    "coarse_window_shift_m": [
     3000.0,
     0.0
    ],
-   "coarse_gsd_m": 0.3825,
-   "refine_matches": 16002,
-   "refine_inliers": 9708,
+   "coarse_gsd_m": 0.383,
+   "refine_matches": 16446,
+   "refine_inliers": 10085,
    "rmse_m": 2.45,
    "median_residual_m": 2.27,
-   "gsd_m": 0.382,
-   "control_from_newer_epochs": 0.18
+   "gsd_m": 0.3822,
+   "control_from_newer_epochs": 0.146
   },
   {
    "key": "rotterdam_1981_37523",
@@ -208,19 +208,19 @@
    "status": "ok",
    "reason": "",
    "gcps": 40,
-   "links": 17,
+   "links": 16,
    "coarse_matches": 5000,
-   "coarse_inliers": 1019,
+   "coarse_inliers": 1121,
    "coarse_window_shift_m": [
     3000.0,
     -3000.0
    ],
    "coarse_gsd_m": 0.3809,
-   "refine_matches": 17690,
-   "refine_inliers": 11999,
-   "rmse_m": 2.37,
-   "median_residual_m": 2.16,
-   "gsd_m": 0.3811,
+   "refine_matches": 18846,
+   "refine_inliers": 12177,
+   "rmse_m": 2.43,
+   "median_residual_m": 2.23,
+   "gsd_m": 0.381,
    "control_from_newer_epochs": 0.367
   },
   {
@@ -234,17 +234,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3090,
+   "coarse_inliers": 3056,
    "coarse_window_shift_m": [
     -3000.0,
     -3000.0
    ],
-   "coarse_gsd_m": 0.4268,
-   "refine_matches": 51505,
-   "refine_inliers": 45726,
-   "rmse_m": 2.22,
-   "median_residual_m": 1.95,
-   "gsd_m": 0.4264,
+   "coarse_gsd_m": 0.427,
+   "refine_matches": 50838,
+   "refine_inliers": 44506,
+   "rmse_m": 2.24,
+   "median_residual_m": 1.97,
+   "gsd_m": 0.4265,
    "control_from_newer_epochs": 0.999
   },
   {
@@ -258,17 +258,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 1896,
+   "coarse_inliers": 1771,
    "coarse_window_shift_m": [
     -3000.0,
     0.0
    ],
-   "coarse_gsd_m": 0.4264,
-   "refine_matches": 44567,
-   "refine_inliers": 36565,
-   "rmse_m": 2.29,
-   "median_residual_m": 2.06,
-   "gsd_m": 0.4264,
+   "coarse_gsd_m": 0.4263,
+   "refine_matches": 43645,
+   "refine_inliers": 36433,
+   "rmse_m": 2.24,
+   "median_residual_m": 1.98,
+   "gsd_m": 0.4266,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -282,16 +282,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 883,
+   "coarse_inliers": 1184,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
-   "coarse_gsd_m": 0.4283,
-   "refine_matches": 49388,
-   "refine_inliers": 42154,
-   "rmse_m": 2.2,
-   "median_residual_m": 1.89,
+   "coarse_gsd_m": 0.4281,
+   "refine_matches": 47198,
+   "refine_inliers": 40818,
+   "rmse_m": 2.18,
+   "median_residual_m": 1.87,
    "gsd_m": 0.4266,
    "control_from_newer_epochs": 1.0
   },
@@ -306,16 +306,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3630,
+   "coarse_inliers": 3715,
    "coarse_window_shift_m": [
     0.0,
     -3000.0
    ],
-   "coarse_gsd_m": 0.432,
-   "refine_matches": 46170,
-   "refine_inliers": 39092,
-   "rmse_m": 2.08,
-   "median_residual_m": 1.76,
+   "coarse_gsd_m": 0.4321,
+   "refine_matches": 45896,
+   "refine_inliers": 39278,
+   "rmse_m": 2.12,
+   "median_residual_m": 1.81,
    "gsd_m": 0.4307,
    "control_from_newer_epochs": 1.0
   },
@@ -330,17 +330,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3768,
+   "coarse_inliers": 3777,
    "coarse_window_shift_m": [
     -3000.0,
     0.0
    ],
-   "coarse_gsd_m": 0.431,
-   "refine_matches": 65204,
-   "refine_inliers": 62287,
-   "rmse_m": 2.06,
-   "median_residual_m": 1.81,
-   "gsd_m": 0.4315,
+   "coarse_gsd_m": 0.4314,
+   "refine_matches": 66606,
+   "refine_inliers": 63579,
+   "rmse_m": 2.09,
+   "median_residual_m": 1.86,
+   "gsd_m": 0.4316,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -352,20 +352,20 @@
    "status": "ok",
    "reason": "",
    "gcps": 40,
-   "links": 37,
+   "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3703,
+   "coarse_inliers": 3672,
    "coarse_window_shift_m": [
     0.0,
     0.0
    ],
    "coarse_gsd_m": 0.4316,
-   "refine_matches": 42770,
-   "refine_inliers": 39775,
-   "rmse_m": 1.82,
-   "median_residual_m": 1.5,
-   "gsd_m": 0.4311,
-   "control_from_newer_epochs": 0.999
+   "refine_matches": 45100,
+   "refine_inliers": 41888,
+   "rmse_m": 1.79,
+   "median_residual_m": 1.46,
+   "gsd_m": 0.4313,
+   "control_from_newer_epochs": 1.0
   },
   {
    "key": "rotterdam_1954_37O-V-134",
@@ -378,17 +378,17 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 2096,
+   "coarse_inliers": 3986,
    "coarse_window_shift_m": [
-    -3000.0,
-    -3000.0
+    0.0,
+    3000.0
    ],
-   "coarse_gsd_m": 0.4128,
-   "refine_matches": 54154,
-   "refine_inliers": 45372,
-   "rmse_m": 2.36,
-   "median_residual_m": 2.15,
-   "gsd_m": 0.4109,
+   "coarse_gsd_m": 0.4116,
+   "refine_matches": 53380,
+   "refine_inliers": 45522,
+   "rmse_m": 2.34,
+   "median_residual_m": 2.12,
+   "gsd_m": 0.4111,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -402,16 +402,16 @@
    "gcps": 40,
    "links": 40,
    "coarse_matches": 5000,
-   "coarse_inliers": 3035,
+   "coarse_inliers": 3011,
    "coarse_window_shift_m": [
     -3000.0,
     -3000.0
    ],
    "coarse_gsd_m": 0.4127,
-   "refine_matches": 41235,
-   "refine_inliers": 36434,
-   "rmse_m": 2.16,
-   "median_residual_m": 1.84,
+   "refine_matches": 40440,
+   "refine_inliers": 34353,
+   "rmse_m": 2.21,
+   "median_residual_m": 1.91,
    "gsd_m": 0.4129,
    "control_from_newer_epochs": 1.0
   },
@@ -429,11 +429,11 @@
    "coarse_inliers": 2772,
    "coarse_anchor": "rotterdam_1971_37O-V-133",
    "coarse_gsd_m": 0.2458,
-   "refine_matches": 6244,
-   "refine_inliers": 4473,
-   "rmse_m": 2.04,
-   "median_residual_m": 1.6,
-   "gsd_m": 0.2453,
+   "refine_matches": 6275,
+   "refine_inliers": 4088,
+   "rmse_m": 1.91,
+   "median_residual_m": 1.45,
+   "gsd_m": 0.2411,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -450,11 +450,11 @@
    "coarse_inliers": 3122,
    "coarse_anchor": "rotterdam_1971_37O-V-133",
    "coarse_gsd_m": 0.2487,
-   "refine_matches": 4474,
-   "refine_inliers": 2545,
-   "rmse_m": 2.48,
-   "median_residual_m": 2.27,
-   "gsd_m": 0.2483,
+   "refine_matches": 3811,
+   "refine_inliers": 2029,
+   "rmse_m": 2.31,
+   "median_residual_m": 2.08,
+   "gsd_m": 0.2489,
    "control_from_newer_epochs": 1.0
   },
   {
@@ -470,11 +470,11 @@
    "coarse_matches": 5000,
    "coarse_inliers": 2259,
    "coarse_anchor": "rotterdam_1954_37O-V-134",
-   "coarse_gsd_m": 0.2489,
-   "refine_matches": 44914,
-   "refine_inliers": 40906,
-   "rmse_m": 1.79,
-   "median_residual_m": 1.39,
+   "coarse_gsd_m": 0.249,
+   "refine_matches": 46870,
+   "refine_inliers": 43235,
+   "rmse_m": 1.76,
+   "median_residual_m": 1.36,
    "gsd_m": 0.2491,
    "control_from_newer_epochs": 1.0
   }
@@ -484,14 +484,14 @@
    "a": "rotterdam_2002_37422",
    "b": "rotterdam_2002_37423",
    "overlap": 0.583,
-   "inliers": 4781,
+   "inliers": 4750,
    "rcps": 30
   },
   {
    "a": "rotterdam_2002_37422",
    "b": "rotterdam_2002_37424",
    "overlap": 0.204,
-   "inliers": 4450,
+   "inliers": 4565,
    "rcps": 30
   },
   {
@@ -504,107 +504,107 @@
   {
    "a": "rotterdam_1992_37421",
    "b": "rotterdam_1992_37423",
-   "overlap": 0.209,
-   "inliers": 3931,
+   "overlap": 0.21,
+   "inliers": 4010,
    "rcps": 30
   },
   {
    "a": "rotterdam_1981_37422",
    "b": "rotterdam_1981_37424",
-   "overlap": 0.214,
-   "inliers": 4740,
+   "overlap": 0.215,
+   "inliers": 4742,
    "rcps": 30
   },
   {
    "a": "rotterdam_1981_37422",
    "b": "rotterdam_1981_37521",
    "overlap": 0.139,
-   "inliers": 3433,
+   "inliers": 3187,
    "rcps": 30
   },
   {
    "a": "rotterdam_1981_37422",
    "b": "rotterdam_1981_37523",
    "overlap": 0.111,
-   "inliers": 3715,
+   "inliers": 3686,
    "rcps": 30
   },
   {
    "a": "rotterdam_1981_37424",
    "b": "rotterdam_1981_37523",
    "overlap": 0.13,
-   "inliers": 3725,
+   "inliers": 3454,
    "rcps": 30
   },
   {
    "a": "rotterdam_1981_37521",
    "b": "rotterdam_1981_37523",
-   "overlap": 0.26,
-   "inliers": 3986,
+   "overlap": 0.259,
+   "inliers": 4195,
    "rcps": 30
   },
   {
    "a": "rotterdam_1971_37O-V-131",
    "b": "rotterdam_1971_37O-V-132",
    "overlap": 0.609,
-   "inliers": 4781,
+   "inliers": 4754,
    "rcps": 30
   },
   {
    "a": "rotterdam_1971_37O-V-131",
    "b": "rotterdam_1971_37O-V-133",
    "overlap": 0.22,
-   "inliers": 4536,
+   "inliers": 4603,
    "rcps": 30
   },
   {
    "a": "rotterdam_1971_37O-V-132",
    "b": "rotterdam_1971_37O-V-133",
    "overlap": 0.59,
-   "inliers": 4772,
+   "inliers": 4722,
    "rcps": 30
   },
   {
    "a": "rotterdam_1961_37O-V-114",
    "b": "rotterdam_1961_37O-V-116",
    "overlap": 0.258,
-   "inliers": 4490,
+   "inliers": 4498,
    "rcps": 30
   },
   {
    "a": "rotterdam_1961_37O-V-116",
    "b": "rotterdam_1961_37O-V-118",
    "overlap": 0.246,
-   "inliers": 4685,
+   "inliers": 4679,
    "rcps": 30
   },
   {
    "a": "rotterdam_1934_37O-739",
    "b": "rotterdam_1934_37O-749",
-   "overlap": 0.66,
-   "inliers": 4878,
+   "overlap": 0.676,
+   "inliers": 4879,
    "rcps": 30
   },
   {
    "a": "rotterdam_1934_37O-739",
    "b": "rotterdam_1934_37O-751",
-   "overlap": 0.054,
-   "inliers": 4182,
+   "overlap": 0.056,
+   "inliers": 3931,
    "rcps": 30
   },
   {
    "a": "rotterdam_1934_37O-749",
    "b": "rotterdam_1934_37O-751",
-   "overlap": 0.246,
-   "inliers": 4337,
+   "overlap": 0.247,
+   "inliers": 4297,
    "rcps": 30
   }
  ],
- "rcps": 2260,
+ "rcps": 2252,
  "iiif": {
-  "requests": 0,
-  "cache_hits": 480,
-  "bytes_downloaded": 0,
+  "requests": 1,
+  "cache_hits": 10342,
+  "bytes_downloaded": 54213,
   "delivered_px": 0,
   "full_resolution_px": 2057163415,
   "delivered_fraction": 0.0,
@@ -711,12 +711,10 @@
    }
   }
  },
- "pdok_requests": 0,
+ "pdok_requests": 299,
  "matcher": {
-  "requests": 17,
-  "cache_hits": 17,
-  "legacy_cache_hits": 0,
-  "cache_misses": 0,
-  "worker_invocations": 0
+  "requests": 440,
+  "cache_hits": 0,
+  "cache_misses": 440
  }
 }

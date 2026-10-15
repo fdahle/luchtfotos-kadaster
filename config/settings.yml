@@ -14,7 +14,7 @@ manifest_base: https://dlc.services/iiif-resource/7/string1string2string3/luchtf
 # original filename, because the generated manifest labels canvases "Canvas n".
 image_index: images.csv
 # Working directory: resume state, per-epoch outputs, mosaics and caches.
-output_root: /data/ATM/01_projects/historic_cadaster/runs
+output_root: /data/ATM/01_projects/historic_cadaster/luchtfotos-kadaster
 # What `publish` copies the results into; GitHub Pages serves it.
 site_dir: ../docs
 
