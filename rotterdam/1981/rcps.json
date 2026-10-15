@@ -1,0 +1,4556 @@
+[
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10156.79,
+   9198.66
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   9641.33,
+   525.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   7535.72,
+   10699.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   7085.53,
+   2034.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   8317.53,
+   9525.4
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   7827.75,
+   870.71
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   3130.37,
+   10860.39
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2724.79,
+   2258.17
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2574.52,
+   10363.6
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2167.32,
+   1777.94
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   5442.18,
+   9659.28
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   4991.21,
+   1041.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   3751.97,
+   8982.97
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3308.27,
+   411.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1955.49,
+   9888.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1543.48,
+   1317.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   5615.05,
+   11057.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   5184.96,
+   2414.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   8891.33,
+   9533.38
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   8397.75,
+   871.42
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2223.85,
+   10201.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1817.92,
+   1625.18
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   6954.17,
+   10485.38
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   6506.48,
+   1832.02
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10015.19,
+   9993.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   9526.87,
+   1306.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   637.16,
+   9737.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   235.71,
+   1186.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   3501.05,
+   10940.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3096.62,
+   2335.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1474.17,
+   10542.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1081.6,
+   1970.28
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2123.71,
+   8757.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1688.73,
+   214.85
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   6481.29,
+   9629.38
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   6016.99,
+   996.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   5192.8,
+   10770.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   4768.11,
+   2137.26
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   5582.66,
+   10068.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   5139.89,
+   1440.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   9650.88,
+   11028.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   9181.04,
+   2330.45
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   4098.23,
+   10194.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3673.41,
+   1589.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   4811.25,
+   8817.2
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   4352.66,
+   230.41
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1288.75,
+   9089.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   865.26,
+   541.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10879.17,
+   9411.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   10360.06,
+   723.4
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   4004.37,
+   9583.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3565.64,
+   991.23
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   4172.69,
+   8937.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3723.65,
+   359.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10364.98,
+   10241.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   9871.55,
+   1546.09
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1467.3,
+   10064.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1066.84,
+   1497.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   9223.16,
+   10025.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37424:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   8738.99,
+   1349.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   204.52,
+   1035.1
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9098.74,
+   4409.03
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1919.36,
+   5002.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10809.85,
+   8353.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1416.79,
+   3144.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10295.1,
+   6503.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2195.74,
+   3063.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   11058.73,
+   6424.73
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2000.76,
+   7243.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10905.61,
+   10594.17
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1073.68,
+   5865.97
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9984.82,
+   9220.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2088.43,
+   2371.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10952.08,
+   5741.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1773.67,
+   3065.74
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10640.17,
+   6424.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   684.16,
+   2101.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9563.03,
+   5463.42
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   611.22,
+   4533.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9518.74,
+   7899.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1596.57,
+   1241.6
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10456.58,
+   4610.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1715.22,
+   1573.38
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10578.0,
+   4943.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1837.64,
+   320.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10689.6,
+   3685.99
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1797.1,
+   7054.45
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10689.16,
+   10394.28
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1248.3,
+   3049.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10129.21,
+   6408.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   288.08,
+   1192.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9181.55,
+   4559.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   440.74,
+   4785.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9357.88,
+   8146.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1500.88,
+   233.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10354.06,
+   3600.85
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1208.62,
+   4826.85
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10097.29,
+   8175.51
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1091.8,
+   2903.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9973.33,
+   6264.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2114.61,
+   6288.62
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10996.19,
+   9636.09
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1197.8,
+   466.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10054.61,
+   3835.97
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   694.66,
+   5867.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9614.57,
+   9216.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1563.84,
+   2410.17
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10431.71,
+   5769.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1047.94,
+   5532.07
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9953.37,
+   8882.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2220.6,
+   245.99
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   11067.8,
+   3613.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2196.8,
+   1878.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   11055.8,
+   5248.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   959.67,
+   1283.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9825.18,
+   4651.5
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1973.26,
+   2571.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10840.2,
+   5936.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1739.5,
+   5451.72
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37521:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10631.47,
+   8805.44
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   961.02,
+   5715.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9661.66,
+   1174.18
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1544.32,
+   9249.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10196.03,
+   4636.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1662.72,
+   8252.45
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10322.12,
+   3667.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2174.57,
+   10588.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10786.03,
+   5969.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2141.0,
+   6496.61
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10804.58,
+   1963.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1829.8,
+   5226.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10523.06,
+   706.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   946.36,
+   6409.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9639.99,
+   1851.2
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   283.36,
+   7522.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8974.14,
+   2918.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1396.71,
+   10653.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10025.82,
+   6007.03
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1095.48,
+   6981.13
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9777.05,
+   2417.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   651.86,
+   7634.26
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9347.06,
+   3035.28
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   553.63,
+   8414.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9231.19,
+   3801.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2199.57,
+   7107.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10853.77,
+   2561.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1081.74,
+   9830.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9733.84,
+   5193.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1713.03,
+   7429.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10381.08,
+   2863.07
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1674.58,
+   6029.34
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10355.81,
+   1496.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2262.68,
+   10838.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10870.8,
+   6215.85
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1401.58,
+   9782.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10044.71,
+   5158.09
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1507.66,
+   6943.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10190.7,
+   2391.13
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   760.7,
+   10433.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9406.61,
+   5776.2
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1749.3,
+   6548.84
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10422.37,
+   2007.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2224.02,
+   5456.66
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10899.46,
+   945.84
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1009.72,
+   8030.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9681.89,
+   3440.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   860.57,
+   10587.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9510.57,
+   5928.46
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2258.7,
+   8300.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10896.28,
+   3731.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1561.85,
+   4784.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10264.04,
+   267.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1240.19,
+   7993.13
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9918.38,
+   3404.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1294.34,
+   5178.86
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9991.67,
+   655.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1257.14,
+   9167.86
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9917.87,
+   4550.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   528.76,
+   9182.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37422:rotterdam_1981_37523:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9193.61,
+   4551.75
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1868.59,
+   1419.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10897.58,
+   5392.39
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1554.87,
+   2375.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10553.71,
+   6325.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1936.79,
+   4549.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10857.39,
+   8509.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1099.34,
+   3453.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10078.24,
+   7390.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   407.44,
+   2742.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9425.18,
+   6658.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   438.31,
+   1930.8
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9477.04,
+   5854.53
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   188.69,
+   1696.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9230.36,
+   5602.53
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1986.7,
+   245.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   11052.72,
+   4224.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2147.76,
+   6247.01
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   11008.38,
+   10194.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1178.97,
+   514.27
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10258.33,
+   4466.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1573.41,
+   6813.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10421.81,
+   10730.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   966.55,
+   6609.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9830.66,
+   10502.85
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1433.2,
+   285.84
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10506.46,
+   4242.89
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1236.11,
+   3617.71
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10206.12,
+   7560.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1233.79,
+   5375.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10132.38,
+   9293.53
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1930.42,
+   995.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10974.0,
+   4976.84
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1493.4,
+   3602.02
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10456.94,
+   7548.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   147.25,
+   6870.39
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9017.23,
+   10729.5
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   375.82,
+   4810.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9323.11,
+   8698.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   720.83,
+   5272.07
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9644.85,
+   9172.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   656.71,
+   1568.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9706.77,
+   5496.55
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   920.04,
+   1420.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9962.71,
+   5351.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   969.97,
+   4658.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9914.11,
+   8573.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1910.88,
+   4092.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10847.95,
+   8053.92
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2269.45,
+   5160.13
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   11165.57,
+   9126.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1050.35,
+   5429.55
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9951.11,
+   9340.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1757.88,
+   2257.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10758.28,
+   6213.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1261.86,
+   4747.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10184.01,
+   8672.34
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1097.85,
+   1856.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10126.6,
+   5804.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1972.62,
+   3434.63
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37424:rotterdam_1981_37523:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10932.72,
+   7408.97
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   4181.42,
+   8851.51
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   4012.39,
+   875.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   740.11,
+   10490.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   521.16,
+   2449.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9166.53,
+   10586.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8939.12,
+   2667.22
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9731.77,
+   9375.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9527.8,
+   1473.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   4411.71,
+   10900.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   4210.53,
+   2909.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9640.45,
+   8817.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9445.23,
+   934.99
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9625.52,
+   8722.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9432.63,
+   840.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9840.84,
+   9569.92
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9633.43,
+   1674.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   11044.5,
+   8691.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10835.8,
+   828.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   8763.14,
+   10162.75
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8545.48,
+   2242.73
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   3455.4,
+   10524.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   3259.23,
+   2516.51
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   8603.77,
+   10948.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8371.08,
+   3014.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   1220.2,
+   9053.92
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   1035.19,
+   1031.41
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   1160.83,
+   8818.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   978.52,
+   793.14
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   2057.35,
+   9456.75
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   1867.74,
+   1444.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10626.43,
+   9323.84
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10416.14,
+   1447.4
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   1965.81,
+   8358.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   1797.25,
+   353.28
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   2839.65,
+   8619.62
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   2671.48,
+   622.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   1507.81,
+   9750.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   1312.9,
+   1724.27
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   3534.71,
+   9010.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   3361.91,
+   1019.99
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   5968.91,
+   9925.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   5780.49,
+   1963.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   6746.22,
+   8562.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   6578.16,
+   628.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   2853.96,
+   10604.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   2651.11,
+   2599.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   7002.44,
+   9046.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   6822.43,
+   1103.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   7013.87,
+   11015.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   6799.03,
+   3060.1
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   5745.68,
+   9343.46
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   5567.78,
+   1383.42
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   5940.41,
+   8376.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   5778.25,
+   429.84
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   7836.19,
+   11004.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   7618.58,
+   3062.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   7631.01,
+   10633.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   7420.44,
+   2693.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   909.67,
+   10511.53
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:rotterdam_1981_37521:rotterdam_1981_37523:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   693.09,
+   2472.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2014.23,
+   3036.5
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3965.46,
+   8975.72
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   987.79,
+   680.45
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   1617.07,
+   9953.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   236.89,
+   2741.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3647.61,
+   10731.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   3321.01,
+   1860.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2810.0,
+   7664.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   856.42,
+   3298.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   4208.1,
+   10116.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2812.57,
+   804.72
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   1758.4,
+   8152.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   3923.52,
+   1395.66
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2355.37,
+   7063.84
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   5071.46,
+   1863.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2830.9,
+   5936.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   4821.85,
+   653.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   1627.3,
+   6168.09
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   6429.59,
+   1672.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2657.1,
+   4590.2
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   7177.7,
+   1374.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2368.41,
+   3843.18
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   8052.23,
+   2245.71
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3244.28,
+   2982.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   8326.98,
+   1225.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2229.4,
+   2692.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10031.7,
+   1288.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2299.51,
+   1005.01
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   8888.07,
+   3064.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   4061.78,
+   2163.94
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   9151.96,
+   602.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   1616.01,
+   1863.07
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   9443.15,
+   2355.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3362.32,
+   1605.17
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   2997.11,
+   2797.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3737.2,
+   8004.91
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1532.32,
+   5599.23
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6491.11,
+   9492.03
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   667.12,
+   6050.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6929.3,
+   10348.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   3413.68,
+   4891.86
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   5812.85,
+   7626.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   3324.9,
+   3853.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   4787.54,
+   7695.26
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   6319.57,
+   3242.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   4213.31,
+   4719.95
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   5519.89,
+   3966.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   4921.76,
+   5522.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   6522.75,
+   5366.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6321.5,
+   4549.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   7625.99,
+   3578.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   4559.94,
+   3428.18
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   9162.78,
+   5566.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6543.82,
+   1940.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10302.47,
+   4434.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   5429.61,
+   782.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10308.67,
+   2871.1
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3883.13,
+   749.34
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10795.93,
+   3118.22
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   4132.2,
+   275.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   9428.77,
+   6070.8
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7043.54,
+   1675.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1842.71,
+   5383.94
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6282.62,
+   9183.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   1676.63,
+   6051.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6940.03,
+   9352.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   5316.9,
+   5366.91
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6306.36,
+   5746.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   4389.64,
+   6947.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7856.5,
+   6687.18
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   4826.95,
+   6242.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7168.06,
+   6248.01
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   6186.36,
+   6596.23
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7535.21,
+   4900.44
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   7308.7,
+   5622.46
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6584.16,
+   3774.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:38",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   8535.28,
+   6506.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:38",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7468.32,
+   2568.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:39",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/a85c0d12742d369782a7e507dd5416c9.json",
+  "resource": [
+   10079.12,
+   6816.63
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37422:rotterdam_1992_37421:39",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7794.12,
+   1036.44
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2511.51,
+   731.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   10178.75,
+   8148.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3160.3,
+   500.02
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   9960.69,
+   7493.08
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2530.26,
+   2948.45
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3903.35,
+   7852.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1587.53,
+   2286.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3241.09,
+   8759.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   956.99,
+   1326.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   10736.19,
+   9716.86
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   540.89,
+   1495.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   2445.92,
+   9749.62
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   4956.4,
+   723.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   10235.45,
+   5705.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   5093.21,
+   1813.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   2840.79,
+   5293.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3739.36,
+   2021.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3023.99,
+   6641.95
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   6820.03,
+   2836.02
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3893.24,
+   3596.99
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   7259.91,
+   2358.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3422.91,
+   3146.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   8653.82,
+   1556.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   2650.05,
+   1717.44
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   5914.01,
+   1591.41
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   2640.2,
+   4472.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   6310.98,
+   830.86
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   10371.07,
+   4349.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   6954.14,
+   1314.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   10887.68,
+   3723.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   8824.84,
+   1204.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   10819.99,
+   1849.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_2002_37423:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   10253.36,
+   2728.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_2002_37423:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/285f4a4df00a73acab10c93011ae092d.json",
+  "resource": [
+   9053.05,
+   341.01
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   9862.54,
+   464.79
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37421:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   10101.17,
+   774.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   133.94,
+   3526.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   4423.43,
+   10198.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2926.76,
+   3003.34
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3967.53,
+   7470.86
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   485.16,
+   5471.85
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6333.34,
+   9915.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   4171.55,
+   4872.34
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   5843.18,
+   6305.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   5013.37,
+   2898.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3910.64,
+   5401.91
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2573.31,
+   4582.92
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   5514.4,
+   7858.53
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   7128.01,
+   2858.46
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3925.65,
+   3289.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   8914.62,
+   4920.75
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6016.56,
+   1554.22
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   7778.51,
+   4872.46
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   5943.2,
+   2699.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   6024.84,
+   5352.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6377.77,
+   4473.14
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   9271.34,
+   4105.5
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   5214.37,
+   1165.22
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   10134.77,
+   5503.08
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6637.98,
+   328.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   1244.19,
+   6790.73
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   7648.83,
+   9218.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   3118.34,
+   5652.72
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6585.17,
+   7360.51
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   5148.27,
+   6412.92
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   7394.58,
+   5376.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   2537.31,
+   5486.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6404.32,
+   7917.94
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   4117.02,
+   5472.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6432.15,
+   6370.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   7562.68,
+   5685.71
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6749.59,
+   2935.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   6408.36,
+   6707.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   7722.53,
+   4134.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/6190237af48ed1d0c08db4d9d4541b64.json",
+  "resource": [
+   8870.68,
+   6548.95
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37424:rotterdam_1992_37423:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   7648.56,
+   1648.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10951.51,
+   5159.74
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2728.03,
+   8879.85
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10760.12,
+   3912.1
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   1493.8,
+   9045.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_2002_37422:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   8588.17,
+   8019.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_2002_37422:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/499744c99d510a5e0f60e4fb528b6fa8.json",
+  "resource": [
+   6821.22,
+   10944.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10120.39,
+   5852.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3399.29,
+   9730.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   10592.69,
+   7855.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   5391.9,
+   9302.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9561.54,
+   5441.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   2998.97,
+   10274.67
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   9557.37,
+   5753.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_1992_37421:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   3301.17,
+   10289.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_2002_37422:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4897041056f63fb614db4af27cc41bf5.json",
+  "resource": [
+   8632.49,
+   8937.67
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37521:rotterdam_2002_37422:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/499744c99d510a5e0f60e4fb528b6fa8.json",
+  "resource": [
+   7723.16,
+   10922.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9965.22,
+   757.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6179.95,
+   9749.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10031.4,
+   1990.08
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7427.73,
+   9684.37
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9890.8,
+   2186.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   7623.41,
+   9841.44
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10060.17,
+   731.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   6155.22,
+   9654.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8437.35,
+   3747.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   812.68,
+   10891.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10380.21,
+   3101.39
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   8543.48,
+   9349.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8379.81,
+   4273.23
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   1332.23,
+   10943.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   9047.35,
+   3053.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37421:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/93f3b6d5e7b1ae99d3e2f5582a3bb259.json",
+  "resource": [
+   8507.97,
+   10678.38
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8948.01,
+   8228.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   5220.97,
+   10373.42
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8936.79,
+   6390.98
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3416.59,
+   10385.93
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8473.48,
+   6237.32
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3263.76,
+   10848.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10762.47,
+   5583.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   2582.55,
+   8589.22
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10874.47,
+   7347.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   4320.67,
+   8486.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10391.07,
+   6552.5
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   3553.78,
+   8961.51
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8590.23,
+   8276.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   5272.97,
+   10730.2
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   8813.6,
+   9321.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   6300.27,
+   10497.08
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/1aafdb32e74d573b86e63003d205b58a.json",
+  "resource": [
+   10814.78,
+   8414.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:rotterdam_1981_37523:rotterdam_1992_37423:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/4e6f9dee3b9bd4427bf9e529dacec8fc.json",
+  "resource": [
+   5379.15,
+   8546.08
+  ]
+ }
+]

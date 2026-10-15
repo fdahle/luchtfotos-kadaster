@@ -1,0 +1,722 @@
+{
+ "site": "rotterdam",
+ "sheet": "b502 37Oost",
+ "centre_rd": [
+  92317.0,
+  438528.0
+ ],
+ "manifest": "https://dlc.services/iiif-resource/7/string1string2string3/luchtfotos-kadaster/rotterdam",
+ "frames": [
+  {
+   "key": "rotterdam_2002_37422",
+   "year": 2002,
+   "name": "2002_37422",
+   "image_service": "https://dlc.services/iiif-img/7/40/499744c99d510a5e0f60e4fb528b6fa8",
+   "canvas": "https://dlc.services/iiif-img/7/40/499744c99d510a5e0f60e4fb528b6fa8/canvas/c/18",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 0,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3631,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3855,
+   "refine_matches": 57295,
+   "refine_inliers": 54507,
+   "rmse_m": 1.75,
+   "median_residual_m": 1.42,
+   "gsd_m": 0.3851,
+   "control_from_newer_epochs": 0.0
+  },
+  {
+   "key": "rotterdam_2002_37423",
+   "year": 2002,
+   "name": "2002_37423",
+   "image_service": "https://dlc.services/iiif-img/7/40/285f4a4df00a73acab10c93011ae092d",
+   "canvas": "https://dlc.services/iiif-img/7/40/285f4a4df00a73acab10c93011ae092d/canvas/c/19",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 0,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4845,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3854,
+   "refine_matches": 69181,
+   "refine_inliers": 65689,
+   "rmse_m": 1.79,
+   "median_residual_m": 1.4,
+   "gsd_m": 0.3851,
+   "control_from_newer_epochs": 0.0
+  },
+  {
+   "key": "rotterdam_2002_37424",
+   "year": 2002,
+   "name": "2002_37424",
+   "image_service": "https://dlc.services/iiif-img/7/40/dcc2d47b5d9929e94d9123636fa71a70",
+   "canvas": "https://dlc.services/iiif-img/7/40/dcc2d47b5d9929e94d9123636fa71a70/canvas/c/20",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 0,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4786,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3857,
+   "refine_matches": 67944,
+   "refine_inliers": 63143,
+   "rmse_m": 1.94,
+   "median_residual_m": 1.61,
+   "gsd_m": 0.3854,
+   "control_from_newer_epochs": 0.0
+  },
+  {
+   "key": "rotterdam_1992_37421",
+   "year": 1992,
+   "name": "1992_37421",
+   "image_service": "https://dlc.services/iiif-img/7/40/93f3b6d5e7b1ae99d3e2f5582a3bb259",
+   "canvas": "https://dlc.services/iiif-img/7/40/93f3b6d5e7b1ae99d3e2f5582a3bb259/canvas/c/16",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3207,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3815,
+   "refine_matches": 73646,
+   "refine_inliers": 71597,
+   "rmse_m": 1.63,
+   "median_residual_m": 1.23,
+   "gsd_m": 0.3813,
+   "control_from_newer_epochs": 0.993
+  },
+  {
+   "key": "rotterdam_1992_37423",
+   "year": 1992,
+   "name": "1992_37423",
+   "image_service": "https://dlc.services/iiif-img/7/40/4e6f9dee3b9bd4427bf9e529dacec8fc",
+   "canvas": "https://dlc.services/iiif-img/7/40/4e6f9dee3b9bd4427bf9e529dacec8fc/canvas/c/17",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4885,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3815,
+   "refine_matches": 68284,
+   "refine_inliers": 60919,
+   "rmse_m": 1.9,
+   "median_residual_m": 1.44,
+   "gsd_m": 0.3815,
+   "control_from_newer_epochs": 0.997
+  },
+  {
+   "key": "rotterdam_1981_37422",
+   "year": 1981,
+   "name": "1981_37422",
+   "image_service": "https://dlc.services/iiif-img/7/40/a85c0d12742d369782a7e507dd5416c9",
+   "canvas": "https://dlc.services/iiif-img/7/40/a85c0d12742d369782a7e507dd5416c9/canvas/c/12",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3856,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3775,
+   "refine_matches": 66071,
+   "refine_inliers": 63724,
+   "rmse_m": 1.81,
+   "median_residual_m": 1.47,
+   "gsd_m": 0.3776,
+   "control_from_newer_epochs": 0.993
+  },
+  {
+   "key": "rotterdam_1981_37424",
+   "year": 1981,
+   "name": "1981_37424",
+   "image_service": "https://dlc.services/iiif-img/7/40/6190237af48ed1d0c08db4d9d4541b64",
+   "canvas": "https://dlc.services/iiif-img/7/40/6190237af48ed1d0c08db4d9d4541b64/canvas/c/13",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 38,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4201,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3783,
+   "refine_matches": 50373,
+   "refine_inliers": 47320,
+   "rmse_m": 1.89,
+   "median_residual_m": 1.53,
+   "gsd_m": 0.3785,
+   "control_from_newer_epochs": 0.971
+  },
+  {
+   "key": "rotterdam_1981_37521",
+   "year": 1981,
+   "name": "1981_37521",
+   "image_service": "https://dlc.services/iiif-img/7/40/4897041056f63fb614db4af27cc41bf5",
+   "canvas": "https://dlc.services/iiif-img/7/40/4897041056f63fb614db4af27cc41bf5/canvas/c/14",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 8,
+   "coarse_matches": 5000,
+   "coarse_inliers": 816,
+   "coarse_window_shift_m": [
+    3000.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3825,
+   "refine_matches": 16002,
+   "refine_inliers": 9708,
+   "rmse_m": 2.45,
+   "median_residual_m": 2.27,
+   "gsd_m": 0.382,
+   "control_from_newer_epochs": 0.18
+  },
+  {
+   "key": "rotterdam_1981_37523",
+   "year": 1981,
+   "name": "1981_37523",
+   "image_service": "https://dlc.services/iiif-img/7/40/1aafdb32e74d573b86e63003d205b58a",
+   "canvas": "https://dlc.services/iiif-img/7/40/1aafdb32e74d573b86e63003d205b58a/canvas/c/15",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 17,
+   "coarse_matches": 5000,
+   "coarse_inliers": 1019,
+   "coarse_window_shift_m": [
+    3000.0,
+    -3000.0
+   ],
+   "coarse_gsd_m": 0.3809,
+   "refine_matches": 17690,
+   "refine_inliers": 11999,
+   "rmse_m": 2.37,
+   "median_residual_m": 2.16,
+   "gsd_m": 0.3811,
+   "control_from_newer_epochs": 0.367
+  },
+  {
+   "key": "rotterdam_1971_37O-V-131",
+   "year": 1971,
+   "name": "1971_37O-V-131",
+   "image_service": "https://dlc.services/iiif-img/7/40/e648ff3e55f272ffce553cfd0dec3fa7",
+   "canvas": "https://dlc.services/iiif-img/7/40/e648ff3e55f272ffce553cfd0dec3fa7/canvas/c/9",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3090,
+   "coarse_window_shift_m": [
+    -3000.0,
+    -3000.0
+   ],
+   "coarse_gsd_m": 0.4268,
+   "refine_matches": 51505,
+   "refine_inliers": 45726,
+   "rmse_m": 2.22,
+   "median_residual_m": 1.95,
+   "gsd_m": 0.4264,
+   "control_from_newer_epochs": 0.999
+  },
+  {
+   "key": "rotterdam_1971_37O-V-132",
+   "year": 1971,
+   "name": "1971_37O-V-132",
+   "image_service": "https://dlc.services/iiif-img/7/40/e7e03741e0e5dd7dc636e9a0056434d0",
+   "canvas": "https://dlc.services/iiif-img/7/40/e7e03741e0e5dd7dc636e9a0056434d0/canvas/c/10",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 1896,
+   "coarse_window_shift_m": [
+    -3000.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.4264,
+   "refine_matches": 44567,
+   "refine_inliers": 36565,
+   "rmse_m": 2.29,
+   "median_residual_m": 2.06,
+   "gsd_m": 0.4264,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1971_37O-V-133",
+   "year": 1971,
+   "name": "1971_37O-V-133",
+   "image_service": "https://dlc.services/iiif-img/7/40/7c78c51a7987bdbbbd695ee4ec484d82",
+   "canvas": "https://dlc.services/iiif-img/7/40/7c78c51a7987bdbbbd695ee4ec484d82/canvas/c/11",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 883,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.4283,
+   "refine_matches": 49388,
+   "refine_inliers": 42154,
+   "rmse_m": 2.2,
+   "median_residual_m": 1.89,
+   "gsd_m": 0.4266,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1961_37O-V-114",
+   "year": 1961,
+   "name": "1961_37O-V-114",
+   "image_service": "https://dlc.services/iiif-img/7/40/b908d23da0243ecbeb13f3516b4a8a45",
+   "canvas": "https://dlc.services/iiif-img/7/40/b908d23da0243ecbeb13f3516b4a8a45/canvas/c/6",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3630,
+   "coarse_window_shift_m": [
+    0.0,
+    -3000.0
+   ],
+   "coarse_gsd_m": 0.432,
+   "refine_matches": 46170,
+   "refine_inliers": 39092,
+   "rmse_m": 2.08,
+   "median_residual_m": 1.76,
+   "gsd_m": 0.4307,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1961_37O-V-116",
+   "year": 1961,
+   "name": "1961_37O-V-116",
+   "image_service": "https://dlc.services/iiif-img/7/40/d3bc5bf18d15dbefac198aa14b281936",
+   "canvas": "https://dlc.services/iiif-img/7/40/d3bc5bf18d15dbefac198aa14b281936/canvas/c/7",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3768,
+   "coarse_window_shift_m": [
+    -3000.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.431,
+   "refine_matches": 65204,
+   "refine_inliers": 62287,
+   "rmse_m": 2.06,
+   "median_residual_m": 1.81,
+   "gsd_m": 0.4315,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1961_37O-V-118",
+   "year": 1961,
+   "name": "1961_37O-V-118",
+   "image_service": "https://dlc.services/iiif-img/7/40/f0c11b43a1922a2a800738a2843bfefd",
+   "canvas": "https://dlc.services/iiif-img/7/40/f0c11b43a1922a2a800738a2843bfefd/canvas/c/8",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 37,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3703,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.4316,
+   "refine_matches": 42770,
+   "refine_inliers": 39775,
+   "rmse_m": 1.82,
+   "median_residual_m": 1.5,
+   "gsd_m": 0.4311,
+   "control_from_newer_epochs": 0.999
+  },
+  {
+   "key": "rotterdam_1954_37O-V-134",
+   "year": 1954,
+   "name": "1954_37O-V-134",
+   "image_service": "https://dlc.services/iiif-img/7/40/9538f2bed90dd6b0d130522030c7ae84",
+   "canvas": "https://dlc.services/iiif-img/7/40/9538f2bed90dd6b0d130522030c7ae84/canvas/c/4",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2096,
+   "coarse_window_shift_m": [
+    -3000.0,
+    -3000.0
+   ],
+   "coarse_gsd_m": 0.4128,
+   "refine_matches": 54154,
+   "refine_inliers": 45372,
+   "rmse_m": 2.36,
+   "median_residual_m": 2.15,
+   "gsd_m": 0.4109,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1954_37O-V-137",
+   "year": 1954,
+   "name": "1954_37O-V-137",
+   "image_service": "https://dlc.services/iiif-img/7/40/eb4f75da06579a579ac7afdb31a03d1c",
+   "canvas": "https://dlc.services/iiif-img/7/40/eb4f75da06579a579ac7afdb31a03d1c/canvas/c/5",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3035,
+   "coarse_window_shift_m": [
+    -3000.0,
+    -3000.0
+   ],
+   "coarse_gsd_m": 0.4127,
+   "refine_matches": 41235,
+   "refine_inliers": 36434,
+   "rmse_m": 2.16,
+   "median_residual_m": 1.84,
+   "gsd_m": 0.4129,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1934_37O-739",
+   "year": 1934,
+   "name": "1934_37O-739",
+   "image_service": "https://dlc.services/iiif-img/7/40/53ee37ac0dd0d542a5a0b0f4433d8587",
+   "canvas": "https://dlc.services/iiif-img/7/40/53ee37ac0dd0d542a5a0b0f4433d8587/canvas/c/1",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2772,
+   "coarse_anchor": "rotterdam_1971_37O-V-133",
+   "coarse_gsd_m": 0.2458,
+   "refine_matches": 6244,
+   "refine_inliers": 4473,
+   "rmse_m": 2.04,
+   "median_residual_m": 1.6,
+   "gsd_m": 0.2453,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1934_37O-749",
+   "year": 1934,
+   "name": "1934_37O-749",
+   "image_service": "https://dlc.services/iiif-img/7/40/bb0898f8c05835ea80636847d95412a2",
+   "canvas": "https://dlc.services/iiif-img/7/40/bb0898f8c05835ea80636847d95412a2/canvas/c/2",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3122,
+   "coarse_anchor": "rotterdam_1971_37O-V-133",
+   "coarse_gsd_m": 0.2487,
+   "refine_matches": 4474,
+   "refine_inliers": 2545,
+   "rmse_m": 2.48,
+   "median_residual_m": 2.27,
+   "gsd_m": 0.2483,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "rotterdam_1934_37O-751",
+   "year": 1934,
+   "name": "1934_37O-751",
+   "image_service": "https://dlc.services/iiif-img/7/40/bc9c4871ead5af270c0a56e4259f7300",
+   "canvas": "https://dlc.services/iiif-img/7/40/bc9c4871ead5af270c0a56e4259f7300/canvas/c/3",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2259,
+   "coarse_anchor": "rotterdam_1954_37O-V-134",
+   "coarse_gsd_m": 0.2489,
+   "refine_matches": 44914,
+   "refine_inliers": 40906,
+   "rmse_m": 1.79,
+   "median_residual_m": 1.39,
+   "gsd_m": 0.2491,
+   "control_from_newer_epochs": 1.0
+  }
+ ],
+ "ties": [
+  {
+   "a": "rotterdam_2002_37422",
+   "b": "rotterdam_2002_37423",
+   "overlap": 0.583,
+   "inliers": 4781,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_2002_37422",
+   "b": "rotterdam_2002_37424",
+   "overlap": 0.204,
+   "inliers": 4450,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_2002_37423",
+   "b": "rotterdam_2002_37424",
+   "overlap": 0.617,
+   "inliers": 4611,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1992_37421",
+   "b": "rotterdam_1992_37423",
+   "overlap": 0.209,
+   "inliers": 3931,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1981_37422",
+   "b": "rotterdam_1981_37424",
+   "overlap": 0.214,
+   "inliers": 4740,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1981_37422",
+   "b": "rotterdam_1981_37521",
+   "overlap": 0.139,
+   "inliers": 3433,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1981_37422",
+   "b": "rotterdam_1981_37523",
+   "overlap": 0.111,
+   "inliers": 3715,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1981_37424",
+   "b": "rotterdam_1981_37523",
+   "overlap": 0.13,
+   "inliers": 3725,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1981_37521",
+   "b": "rotterdam_1981_37523",
+   "overlap": 0.26,
+   "inliers": 3986,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1971_37O-V-131",
+   "b": "rotterdam_1971_37O-V-132",
+   "overlap": 0.609,
+   "inliers": 4781,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1971_37O-V-131",
+   "b": "rotterdam_1971_37O-V-133",
+   "overlap": 0.22,
+   "inliers": 4536,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1971_37O-V-132",
+   "b": "rotterdam_1971_37O-V-133",
+   "overlap": 0.59,
+   "inliers": 4772,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1961_37O-V-114",
+   "b": "rotterdam_1961_37O-V-116",
+   "overlap": 0.258,
+   "inliers": 4490,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1961_37O-V-116",
+   "b": "rotterdam_1961_37O-V-118",
+   "overlap": 0.246,
+   "inliers": 4685,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1934_37O-739",
+   "b": "rotterdam_1934_37O-749",
+   "overlap": 0.66,
+   "inliers": 4878,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1934_37O-739",
+   "b": "rotterdam_1934_37O-751",
+   "overlap": 0.054,
+   "inliers": 4182,
+   "rcps": 30
+  },
+  {
+   "a": "rotterdam_1934_37O-749",
+   "b": "rotterdam_1934_37O-751",
+   "overlap": 0.246,
+   "inliers": 4337,
+   "rcps": 30
+  }
+ ],
+ "rcps": 2260,
+ "iiif": {
+  "requests": 0,
+  "cache_hits": 480,
+  "bytes_downloaded": 0,
+  "delivered_px": 0,
+  "full_resolution_px": 2057163415,
+  "delivered_fraction": 0.0,
+  "images": {
+   "1aafdb32e74d573b86e63003d205b58a": {
+    "delivered_px": 0,
+    "full_resolution_px": 132758833,
+    "delivered_fraction": 0.0
+   },
+   "285f4a4df00a73acab10c93011ae092d": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "4897041056f63fb614db4af27cc41bf5": {
+    "delivered_px": 0,
+    "full_resolution_px": 132758833,
+    "delivered_fraction": 0.0
+   },
+   "499744c99d510a5e0f60e4fb528b6fa8": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "4e6f9dee3b9bd4427bf9e529dacec8fc": {
+    "delivered_px": 0,
+    "full_resolution_px": 134143064,
+    "delivered_fraction": 0.0
+   },
+   "53ee37ac0dd0d542a5a0b0f4433d8587": {
+    "delivered_px": 0,
+    "full_resolution_px": 71896869,
+    "delivered_fraction": 0.0
+   },
+   "6190237af48ed1d0c08db4d9d4541b64": {
+    "delivered_px": 0,
+    "full_resolution_px": 132758833,
+    "delivered_fraction": 0.0
+   },
+   "7c78c51a7987bdbbbd695ee4ec484d82": {
+    "delivered_px": 0,
+    "full_resolution_px": 79134085,
+    "delivered_fraction": 0.0
+   },
+   "93f3b6d5e7b1ae99d3e2f5582a3bb259": {
+    "delivered_px": 0,
+    "full_resolution_px": 134143064,
+    "delivered_fraction": 0.0
+   },
+   "9538f2bed90dd6b0d130522030c7ae84": {
+    "delivered_px": 0,
+    "full_resolution_px": 78826640,
+    "delivered_fraction": 0.0
+   },
+   "a85c0d12742d369782a7e507dd5416c9": {
+    "delivered_px": 0,
+    "full_resolution_px": 132758833,
+    "delivered_fraction": 0.0
+   },
+   "b908d23da0243ecbeb13f3516b4a8a45": {
+    "delivered_px": 0,
+    "full_resolution_px": 82570884,
+    "delivered_fraction": 0.0
+   },
+   "bb0898f8c05835ea80636847d95412a2": {
+    "delivered_px": 0,
+    "full_resolution_px": 73941282,
+    "delivered_fraction": 0.0
+   },
+   "bc9c4871ead5af270c0a56e4259f7300": {
+    "delivered_px": 0,
+    "full_resolution_px": 73941282,
+    "delivered_fraction": 0.0
+   },
+   "d3bc5bf18d15dbefac198aa14b281936": {
+    "delivered_px": 0,
+    "full_resolution_px": 82570884,
+    "delivered_fraction": 0.0
+   },
+   "dcc2d47b5d9929e94d9123636fa71a70": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "e648ff3e55f272ffce553cfd0dec3fa7": {
+    "delivered_px": 0,
+    "full_resolution_px": 79134085,
+    "delivered_fraction": 0.0
+   },
+   "e7e03741e0e5dd7dc636e9a0056434d0": {
+    "delivered_px": 0,
+    "full_resolution_px": 79134085,
+    "delivered_fraction": 0.0
+   },
+   "eb4f75da06579a579ac7afdb31a03d1c": {
+    "delivered_px": 0,
+    "full_resolution_px": 70634430,
+    "delivered_fraction": 0.0
+   },
+   "f0c11b43a1922a2a800738a2843bfefd": {
+    "delivered_px": 0,
+    "full_resolution_px": 82570884,
+    "delivered_fraction": 0.0
+   }
+  }
+ },
+ "pdok_requests": 0,
+ "matcher": {
+  "requests": 17,
+  "cache_hits": 17,
+  "legacy_cache_hits": 0,
+  "cache_misses": 0,
+  "worker_invocations": 0
+ }
+}

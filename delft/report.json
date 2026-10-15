@@ -1,0 +1,686 @@
+{
+ "site": "delft",
+ "sheet": "b459 37Oost",
+ "centre_rd": [
+  84490.0,
+  447676.0
+ ],
+ "manifest": "https://dlc.services/iiif-resource/7/string1string2string3/luchtfotos-kadaster/delft",
+ "frames": [
+  {
+   "key": "delft_2002_37111",
+   "year": 2002,
+   "name": "2002_37111",
+   "image_service": "https://dlc.services/iiif-img/7/40/0de855ee51500a189d7669bb32759f31",
+   "canvas": "https://dlc.services/iiif-img/7/40/0de855ee51500a189d7669bb32759f31/canvas/c/16",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 0,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3856,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3855,
+   "refine_matches": 47278,
+   "refine_inliers": 42847,
+   "rmse_m": 1.86,
+   "median_residual_m": 1.47,
+   "gsd_m": 0.3854,
+   "control_from_newer_epochs": 0.0
+  },
+  {
+   "key": "delft_2002_37113",
+   "year": 2002,
+   "name": "2002_37113",
+   "image_service": "https://dlc.services/iiif-img/7/40/61844ff798437eae112beb3586d85b4d",
+   "canvas": "https://dlc.services/iiif-img/7/40/61844ff798437eae112beb3586d85b4d/canvas/c/17",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 0,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4485,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3859,
+   "refine_matches": 51272,
+   "refine_inliers": 44670,
+   "rmse_m": 2.02,
+   "median_residual_m": 1.67,
+   "gsd_m": 0.3856,
+   "control_from_newer_epochs": 0.0
+  },
+  {
+   "key": "delft_2002_37216",
+   "year": 2002,
+   "name": "2002_37216",
+   "image_service": "https://dlc.services/iiif-img/7/40/f4f4dc3ac6720ac54022b5b963815476",
+   "canvas": "https://dlc.services/iiif-img/7/40/f4f4dc3ac6720ac54022b5b963815476/canvas/c/18",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 0,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3700,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3854,
+   "refine_matches": 51482,
+   "refine_inliers": 44444,
+   "rmse_m": 2.11,
+   "median_residual_m": 1.76,
+   "gsd_m": 0.3851,
+   "control_from_newer_epochs": 0.0
+  },
+  {
+   "key": "delft_2002_37218",
+   "year": 2002,
+   "name": "2002_37218",
+   "image_service": "https://dlc.services/iiif-img/7/40/ee45b73771fd35925d85922997c1c96a",
+   "canvas": "https://dlc.services/iiif-img/7/40/ee45b73771fd35925d85922997c1c96a/canvas/c/19",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 0,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4357,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3856,
+   "refine_matches": 37749,
+   "refine_inliers": 32350,
+   "rmse_m": 2.16,
+   "median_residual_m": 1.88,
+   "gsd_m": 0.3855,
+   "control_from_newer_epochs": 0.0
+  },
+  {
+   "key": "delft_1992_37110",
+   "year": 1992,
+   "name": "1992_37110",
+   "image_service": "https://dlc.services/iiif-img/7/40/8a5277346e8e7cd31db7654f77862b65",
+   "canvas": "https://dlc.services/iiif-img/7/40/8a5277346e8e7cd31db7654f77862b65/canvas/c/12",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2520,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3851,
+   "refine_matches": 64660,
+   "refine_inliers": 62886,
+   "rmse_m": 1.54,
+   "median_residual_m": 1.04,
+   "gsd_m": 0.3847,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1992_37112",
+   "year": 1992,
+   "name": "1992_37112",
+   "image_service": "https://dlc.services/iiif-img/7/40/362d38fbea28a60419c8592e90668687",
+   "canvas": "https://dlc.services/iiif-img/7/40/362d38fbea28a60419c8592e90668687/canvas/c/13",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 39,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4088,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3853,
+   "refine_matches": 34473,
+   "refine_inliers": 32105,
+   "rmse_m": 1.69,
+   "median_residual_m": 1.28,
+   "gsd_m": 0.3851,
+   "control_from_newer_epochs": 0.998
+  },
+  {
+   "key": "delft_1992_37217",
+   "year": 1992,
+   "name": "1992_37217",
+   "image_service": "https://dlc.services/iiif-img/7/40/4c30c124e0dfb9f6fe3bba8dab8ee900",
+   "canvas": "https://dlc.services/iiif-img/7/40/4c30c124e0dfb9f6fe3bba8dab8ee900/canvas/c/14",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 730,
+   "coarse_window_shift_m": [
+    -3000.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.386,
+   "refine_matches": 63612,
+   "refine_inliers": 60501,
+   "rmse_m": 1.83,
+   "median_residual_m": 1.42,
+   "gsd_m": 0.3853,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1992_37219",
+   "year": 1992,
+   "name": "1992_37219",
+   "image_service": "https://dlc.services/iiif-img/7/40/9d43b0e9c2c1548c55415e34c3e3876a",
+   "canvas": "https://dlc.services/iiif-img/7/40/9d43b0e9c2c1548c55415e34c3e3876a/canvas/c/15",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2254,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3864,
+   "refine_matches": 32173,
+   "refine_inliers": 26633,
+   "rmse_m": 2.18,
+   "median_residual_m": 1.92,
+   "gsd_m": 0.3863,
+   "control_from_newer_epochs": 0.995
+  },
+  {
+   "key": "delft_1981_37111",
+   "year": 1981,
+   "name": "1981_37111",
+   "image_service": "https://dlc.services/iiif-img/7/40/537c70047c4e4481f810307f9127c0dd",
+   "canvas": "https://dlc.services/iiif-img/7/40/537c70047c4e4481f810307f9127c0dd/canvas/c/9",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 4303,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.38,
+   "refine_matches": 65522,
+   "refine_inliers": 60609,
+   "rmse_m": 2.16,
+   "median_residual_m": 1.88,
+   "gsd_m": 0.3799,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1981_37216",
+   "year": 1981,
+   "name": "1981_37216",
+   "image_service": "https://dlc.services/iiif-img/7/40/e5ab991193cf54ff1f5a60cbc53af05b",
+   "canvas": "https://dlc.services/iiif-img/7/40/e5ab991193cf54ff1f5a60cbc53af05b/canvas/c/10",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2904,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3868,
+   "refine_matches": 51287,
+   "refine_inliers": 45872,
+   "rmse_m": 2.17,
+   "median_residual_m": 1.88,
+   "gsd_m": 0.3865,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1981_37218",
+   "year": 1981,
+   "name": "1981_37218",
+   "image_service": "https://dlc.services/iiif-img/7/40/dc8d4f9c5d9b4dfec7060dfd17fa437f",
+   "canvas": "https://dlc.services/iiif-img/7/40/dc8d4f9c5d9b4dfec7060dfd17fa437f/canvas/c/11",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3968,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.3869,
+   "refine_matches": 35349,
+   "refine_inliers": 30927,
+   "rmse_m": 2.21,
+   "median_residual_m": 1.93,
+   "gsd_m": 0.3874,
+   "control_from_newer_epochs": 0.997
+  },
+  {
+   "key": "delft_1971_37O-I-12",
+   "year": 1971,
+   "name": "1971_37O-I-12",
+   "image_service": "https://dlc.services/iiif-img/7/40/8f9d0a96dafdefdb8ed9c84ee9ff7fa5",
+   "canvas": "https://dlc.services/iiif-img/7/40/8f9d0a96dafdefdb8ed9c84ee9ff7fa5/canvas/c/7",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2076,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.4258,
+   "refine_matches": 70697,
+   "refine_inliers": 67841,
+   "rmse_m": 1.73,
+   "median_residual_m": 1.34,
+   "gsd_m": 0.4254,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1971_37O-II-43",
+   "year": 1971,
+   "name": "1971_37O-II-43",
+   "image_service": "https://dlc.services/iiif-img/7/40/c999f479c6a450211f543c8091ca8853",
+   "canvas": "https://dlc.services/iiif-img/7/40/c999f479c6a450211f543c8091ca8853/canvas/c/8",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3903,
+   "coarse_window_shift_m": [
+    0.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.4258,
+   "refine_matches": 49793,
+   "refine_inliers": 45467,
+   "rmse_m": 1.98,
+   "median_residual_m": 1.61,
+   "gsd_m": 0.4257,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1961_37O-I-13",
+   "year": 1961,
+   "name": "1961_37O-I-13",
+   "image_service": "https://dlc.services/iiif-img/7/40/e50d3bab058deb0714d6c59df074db72",
+   "canvas": "https://dlc.services/iiif-img/7/40/e50d3bab058deb0714d6c59df074db72/canvas/c/5",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3291,
+   "coarse_window_shift_m": [
+    -3000.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.4304,
+   "refine_matches": 44924,
+   "refine_inliers": 41520,
+   "rmse_m": 1.72,
+   "median_residual_m": 1.33,
+   "gsd_m": 0.4302,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1961_37O-II-39",
+   "year": 1961,
+   "name": "1961_37O-II-39",
+   "image_service": "https://dlc.services/iiif-img/7/40/deef544402d3bf4ffcf9dfa4abc03ec7",
+   "canvas": "https://dlc.services/iiif-img/7/40/deef544402d3bf4ffcf9dfa4abc03ec7/canvas/c/6",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2688,
+   "coarse_anchor": "delft_1981_37111",
+   "coarse_gsd_m": 0.429,
+   "refine_matches": 26747,
+   "refine_inliers": 22510,
+   "rmse_m": 2.17,
+   "median_residual_m": 1.85,
+   "gsd_m": 0.4312,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1954_37O-I-14",
+   "year": 1954,
+   "name": "1954_37O-I-14",
+   "image_service": "https://dlc.services/iiif-img/7/40/c2208160db6a8ea6d047612bc3000dff",
+   "canvas": "https://dlc.services/iiif-img/7/40/c2208160db6a8ea6d047612bc3000dff/canvas/c/3",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 1753,
+   "coarse_window_shift_m": [
+    -3000.0,
+    0.0
+   ],
+   "coarse_gsd_m": 0.4141,
+   "refine_matches": 52423,
+   "refine_inliers": 49708,
+   "rmse_m": 1.48,
+   "median_residual_m": 1.15,
+   "gsd_m": 0.4138,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1954_37O-II-43",
+   "year": 1954,
+   "name": "1954_37O-II-43",
+   "image_service": "https://dlc.services/iiif-img/7/40/087c26dba01d762854b60e8805c2f8bb",
+   "canvas": "https://dlc.services/iiif-img/7/40/087c26dba01d762854b60e8805c2f8bb/canvas/c/4",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 1686,
+   "coarse_window_shift_m": [
+    0.0,
+    3000.0
+   ],
+   "coarse_gsd_m": 0.4141,
+   "refine_matches": 29910,
+   "refine_inliers": 25251,
+   "rmse_m": 2.28,
+   "median_residual_m": 2.04,
+   "gsd_m": 0.4146,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1933_459-608",
+   "year": 1933,
+   "name": "1933_459-608",
+   "image_service": "https://dlc.services/iiif-img/7/40/71d6ea701833379e3b222b340bb38867",
+   "canvas": "https://dlc.services/iiif-img/7/40/71d6ea701833379e3b222b340bb38867/canvas/c/1",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 3118,
+   "coarse_anchor": "delft_1954_37O-II-43",
+   "coarse_gsd_m": 0.2128,
+   "refine_matches": 24956,
+   "refine_inliers": 20854,
+   "rmse_m": 1.92,
+   "median_residual_m": 1.55,
+   "gsd_m": 0.2128,
+   "control_from_newer_epochs": 1.0
+  },
+  {
+   "key": "delft_1933_459-609",
+   "year": 1933,
+   "name": "1933_459-609",
+   "image_service": "https://dlc.services/iiif-img/7/40/6b4a82f7191bf6871a9b7ce7228d239e",
+   "canvas": "https://dlc.services/iiif-img/7/40/6b4a82f7191bf6871a9b7ce7228d239e/canvas/c/2",
+   "status": "ok",
+   "reason": "",
+   "gcps": 40,
+   "links": 40,
+   "coarse_matches": 5000,
+   "coarse_inliers": 2026,
+   "coarse_anchor": "delft_1961_37O-I-13",
+   "coarse_gsd_m": 0.2128,
+   "refine_matches": 26828,
+   "refine_inliers": 25066,
+   "rmse_m": 1.59,
+   "median_residual_m": 1.15,
+   "gsd_m": 0.2133,
+   "control_from_newer_epochs": 1.0
+  }
+ ],
+ "ties": [
+  {
+   "a": "delft_2002_37111",
+   "b": "delft_2002_37113",
+   "overlap": 0.196,
+   "inliers": 4762,
+   "rcps": 30
+  },
+  {
+   "a": "delft_2002_37111",
+   "b": "delft_2002_37216",
+   "overlap": 0.225,
+   "inliers": 4574,
+   "rcps": 30
+  },
+  {
+   "a": "delft_2002_37113",
+   "b": "delft_2002_37218",
+   "overlap": 0.256,
+   "inliers": 4648,
+   "rcps": 30
+  },
+  {
+   "a": "delft_2002_37216",
+   "b": "delft_2002_37218",
+   "overlap": 0.18,
+   "inliers": 4508,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1992_37110",
+   "b": "delft_1992_37112",
+   "overlap": 0.158,
+   "inliers": 4370,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1992_37110",
+   "b": "delft_1992_37217",
+   "overlap": 0.237,
+   "inliers": 4553,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1992_37112",
+   "b": "delft_1992_37217",
+   "overlap": 0.061,
+   "inliers": 3911,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1992_37112",
+   "b": "delft_1992_37219",
+   "overlap": 0.223,
+   "inliers": 4766,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1992_37217",
+   "b": "delft_1992_37219",
+   "overlap": 0.231,
+   "inliers": 4627,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1981_37111",
+   "b": "delft_1981_37216",
+   "overlap": 0.209,
+   "inliers": 4548,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1981_37111",
+   "b": "delft_1981_37218",
+   "overlap": 0.085,
+   "inliers": 4513,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1981_37216",
+   "b": "delft_1981_37218",
+   "overlap": 0.192,
+   "inliers": 4800,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1971_37O-I-12",
+   "b": "delft_1971_37O-II-43",
+   "overlap": 0.092,
+   "inliers": 4916,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1961_37O-I-13",
+   "b": "delft_1961_37O-II-39",
+   "overlap": 0.214,
+   "inliers": 3986,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1954_37O-I-14",
+   "b": "delft_1954_37O-II-43",
+   "overlap": 0.185,
+   "inliers": 3779,
+   "rcps": 30
+  },
+  {
+   "a": "delft_1933_459-608",
+   "b": "delft_1933_459-609",
+   "overlap": 0.369,
+   "inliers": 4755,
+   "rcps": 30
+  }
+ ],
+ "rcps": 2158,
+ "iiif": {
+  "requests": 0,
+  "cache_hits": 390,
+  "bytes_downloaded": 0,
+  "delivered_px": 0,
+  "full_resolution_px": 2114046751,
+  "delivered_fraction": 0.0,
+  "images": {
+   "087c26dba01d762854b60e8805c2f8bb": {
+    "delivered_px": 0,
+    "full_resolution_px": 70919112,
+    "delivered_fraction": 0.0
+   },
+   "0de855ee51500a189d7669bb32759f31": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "362d38fbea28a60419c8592e90668687": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "4c30c124e0dfb9f6fe3bba8dab8ee900": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "537c70047c4e4481f810307f9127c0dd": {
+    "delivered_px": 0,
+    "full_resolution_px": 132758833,
+    "delivered_fraction": 0.0
+   },
+   "61844ff798437eae112beb3586d85b4d": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "6b4a82f7191bf6871a9b7ce7228d239e": {
+    "delivered_px": 0,
+    "full_resolution_px": 94709943,
+    "delivered_fraction": 0.0
+   },
+   "71d6ea701833379e3b222b340bb38867": {
+    "delivered_px": 0,
+    "full_resolution_px": 96891849,
+    "delivered_fraction": 0.0
+   },
+   "8a5277346e8e7cd31db7654f77862b65": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "8f9d0a96dafdefdb8ed9c84ee9ff7fa5": {
+    "delivered_px": 0,
+    "full_resolution_px": 80588376,
+    "delivered_fraction": 0.0
+   },
+   "9d43b0e9c2c1548c55415e34c3e3876a": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "c2208160db6a8ea6d047612bc3000dff": {
+    "delivered_px": 0,
+    "full_resolution_px": 71198688,
+    "delivered_fraction": 0.0
+   },
+   "c999f479c6a450211f543c8091ca8853": {
+    "delivered_px": 0,
+    "full_resolution_px": 76528860,
+    "delivered_fraction": 0.0
+   },
+   "dc8d4f9c5d9b4dfec7060dfd17fa437f": {
+    "delivered_px": 0,
+    "full_resolution_px": 132758833,
+    "delivered_fraction": 0.0
+   },
+   "deef544402d3bf4ffcf9dfa4abc03ec7": {
+    "delivered_px": 0,
+    "full_resolution_px": 71736544,
+    "delivered_fraction": 0.0
+   },
+   "e50d3bab058deb0714d6c59df074db72": {
+    "delivered_px": 0,
+    "full_resolution_px": 77232760,
+    "delivered_fraction": 0.0
+   },
+   "e5ab991193cf54ff1f5a60cbc53af05b": {
+    "delivered_px": 0,
+    "full_resolution_px": 132758833,
+    "delivered_fraction": 0.0
+   },
+   "ee45b73771fd35925d85922997c1c96a": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   },
+   "f4f4dc3ac6720ac54022b5b963815476": {
+    "delivered_px": 0,
+    "full_resolution_px": 134495515,
+    "delivered_fraction": 0.0
+   }
+  }
+ },
+ "pdok_requests": 0,
+ "matcher": {
+  "requests": 16,
+  "cache_hits": 16,
+  "legacy_cache_hits": 0,
+  "cache_misses": 0,
+  "worker_invocations": 0
+ }
+}

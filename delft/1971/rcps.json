@@ -1,0 +1,1982 @@
+[
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6649.21,
+   6483.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   289.35,
+   76.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7181.02,
+   8430.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   772.18,
+   2002.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8139.86,
+   6936.83
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1752.84,
+   538.4
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7094.33,
+   6676.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   721.66,
+   271.4
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8119.21,
+   8052.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1713.86,
+   1641.14
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8711.83,
+   7861.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2302.19,
+   1456.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   9106.33,
+   8263.62
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2681.96,
+   1858.63
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6830.63,
+   8260.53
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   429.05,
+   1831.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6864.96,
+   7166.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   488.78,
+   750.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   9405.3,
+   7071.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   3006.61,
+   683.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8203.48,
+   7718.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1802.02,
+   1309.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7377.7,
+   7073.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   996.02,
+   663.71
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7725.2,
+   8270.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1318.14,
+   1850.75
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8069.18,
+   8457.86
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1652.27,
+   2037.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6623.61,
+   8046.44
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   231.46,
+   1616.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8757.6,
+   6785.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2366.85,
+   395.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6684.34,
+   6714.23
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   320.37,
+   302.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8439.61,
+   8134.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2027.95,
+   1723.17
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   9225.74,
+   7950.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2808.96,
+   1549.59
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8249.48,
+   7524.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1850.65,
+   1117.93
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8893.52,
+   7562.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2487.66,
+   1163.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6873.99,
+   7787.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   485.97,
+   1363.51
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   9258.4,
+   7572.92
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2846.43,
+   1171.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7117.33,
+   8033.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   715.52,
+   1605.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7293.51,
+   8099.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   893.42,
+   1677.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8704.88,
+   7264.66
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2305.9,
+   865.61
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6909.75,
+   7192.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   532.72,
+   776.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7821.6,
+   6408.1
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1446.57,
+   15.66
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8731.99,
+   8066.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2316.31,
+   1657.54
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6902.23,
+   6501.26
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "tie:delft_1971_37O-I-12:delft_1971_37O-II-43:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   534.02,
+   95.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   1722.57,
+   1413.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   9971.09,
+   2308.28
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   1995.11,
+   285.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   11251.21,
+   2625.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   1589.43,
+   2012.6
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   9296.26,
+   2151.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   1615.82,
+   345.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   11189.13,
+   2191.39
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   2770.83,
+   2136.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   9129.27,
+   3495.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   4105.45,
+   1192.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   10174.66,
+   5020.55
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   3011.63,
+   21.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   11528.13,
+   3796.23
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   3112.74,
+   1098.97
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   10311.46,
+   3894.09
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7020.22,
+   148.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   11299.95,
+   8343.0
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   4397.95,
+   101.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   11417.33,
+   5373.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6042.74,
+   2096.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   9119.69,
+   7196.1
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6064.3,
+   249.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   11208.85,
+   7261.13
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8935.42,
+   304.67
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   11092.07,
+   10494.42
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7445.31,
+   722.79
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   10645.67,
+   8807.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7737.46,
+   1259.6
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   10034.13,
+   9123.93
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8428.1,
+   1522.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   9729.55,
+   9894.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   2258.74,
+   2642.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   8573.41,
+   2904.74
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   839.87,
+   3526.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   7598.54,
+   1279.6
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   951.56,
+   3168.41
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   7995.76,
+   1418.01
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   4890.67,
+   2504.39
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   8680.01,
+   5887.18
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   4850.64,
+   3556.38
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   7498.96,
+   5821.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   4521.88,
+   4323.16
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   6651.69,
+   5441.2
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   3743.15,
+   3617.74
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   7448.87,
+   4573.17
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6380.59,
+   2094.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   9118.01,
+   7576.14
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   5561.02,
+   4526.78
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   6405.6,
+   6605.33
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6572.98,
+   2643.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   8500.22,
+   7783.11
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7430.08,
+   2847.96
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   8257.4,
+   8739.28
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   5597.23,
+   3058.97
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   8044.76,
+   6673.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7092.23,
+   3259.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   7804.64,
+   8350.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6066.7,
+   4236.63
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   6720.62,
+   7178.87
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8742.26,
+   2195.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   8966.04,
+   10224.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   9175.28,
+   3274.75
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   7759.39,
+   10680.66
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   1488.58,
+   4883.03
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   6066.39,
+   2005.64
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   2484.33,
+   4085.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   6937.9,
+   3142.47
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   3516.02,
+   5034.13
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   5872.85,
+   4296.93
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   2616.32,
+   5261.67
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   5630.36,
+   3282.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   6440.9,
+   5221.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   5631.52,
+   7576.74
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7623.4,
+   4986.95
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   5871.23,
+   8899.14
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:38",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   7884.71,
+   4236.89
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:38",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   6706.95,
+   9210.3
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:39",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/8f9d0a96dafdefdb8ed9c84ee9ff7fa5.json",
+  "resource": [
+   8904.84,
+   4422.14
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-I-12:delft_1981_37111:39",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   6485.07,
+   10349.91
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1836.27,
+   810.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:0",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   3414.52,
+   9529.52
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2398.48,
+   463.68
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:1",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   3805.85,
+   10154.75
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   621.09,
+   1970.48
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:2",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   2106.92,
+   8172.29
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   669.67,
+   871.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:3",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   3340.1,
+   8217.23
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2929.83,
+   1199.73
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:4",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   2984.49,
+   10750.03
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   3583.83,
+   2182.25
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:5",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   10513.59,
+   4566.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1992_37112:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   3410.04,
+   476.67
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1992_37112:6",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/362d38fbea28a60419c8592e90668687.json",
+  "resource": [
+   5830.11,
+   7931.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1570.45,
+   2160.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:7",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   1914.44,
+   9230.17
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1289.09,
+   2360.5
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:8",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   1689.32,
+   8909.46
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1392.32,
+   4441.93
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:9",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/e5ab991193cf54ff1f5a60cbc53af05b.json",
+  "resource": [
+   8071.15,
+   10804.56
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   847.81,
+   4452.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:10",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/e5ab991193cf54ff1f5a60cbc53af05b.json",
+  "resource": [
+   8043.37,
+   10203.36
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   390.33,
+   4161.82
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:11",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/e5ab991193cf54ff1f5a60cbc53af05b.json",
+  "resource": [
+   8347.48,
+   9691.67
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   396.41,
+   2257.08
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:12",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   1793.58,
+   7925.5
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   3702.74,
+   2539.34
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:13",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   10113.0,
+   4700.38
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   4728.87,
+   2169.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:14",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   10539.47,
+   5833.41
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2431.33,
+   3526.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:15",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   418.84,
+   10170.71
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   4249.27,
+   3353.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:16",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   9217.4,
+   5323.76
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   4587.7,
+   3724.42
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:17",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   8817.74,
+   5700.8
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   3144.78,
+   2203.21
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37111:18",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/537c70047c4e4481f810307f9127c0dd.json",
+  "resource": [
+   1882.91,
+   10981.57
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   5814.25,
+   1832.61
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:19",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   10935.74,
+   7039.1
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   6564.3,
+   2927.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:20",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   9734.36,
+   7872.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   5494.11,
+   3215.91
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:21",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   9393.4,
+   6699.49
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   7007.92,
+   3155.58
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:22",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   9501.76,
+   8365.01
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   6939.32,
+   2084.7
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:23",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   10673.43,
+   8279.65
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   1317.98,
+   4011.43
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:24",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/e5ab991193cf54ff1f5a60cbc53af05b.json",
+  "resource": [
+   8543.16,
+   10708.02
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   4307.9,
+   4811.97
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:25",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   7629.38,
+   5414.18
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2842.94,
+   4666.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:26",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   7755.04,
+   3782.88
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2971.51,
+   5803.06
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:27",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   6522.33,
+   3946.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2111.76,
+   5538.46
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:28",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   6790.45,
+   2991.12
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   5365.82,
+   4332.42
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:29",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   8169.53,
+   6569.31
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   6054.44,
+   4869.02
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:30",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   7606.15,
+   7337.04
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   6085.41,
+   4034.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:31",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   8508.91,
+   7362.69
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   7015.67,
+   4248.15
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:32",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   8298.69,
+   8388.09
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   8010.14,
+   4232.81
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:33",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   8335.23,
+   9481.61
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   7661.89,
+   4979.24
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:34",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   7516.86,
+   9110.01
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   7948.11,
+   5189.9
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:35",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   7298.22,
+   9424.45
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   91.4,
+   6083.02
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:36",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/e5ab991193cf54ff1f5a60cbc53af05b.json",
+  "resource": [
+   6238.62,
+   9420.05
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2155.72,
+   7098.08
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:37",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   5090.12,
+   3070.35
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:38",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   108.97,
+   6859.79
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37216:38",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/e5ab991193cf54ff1f5a60cbc53af05b.json",
+  "resource": [
+   5388.19,
+   9459.03
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:39",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/c999f479c6a450211f543c8091ca8853.json",
+  "resource": [
+   2392.96,
+   6605.19
+  ]
+ },
+ {
+  "type": "rcp",
+  "id": "link:delft_1971_37O-II-43:delft_1981_37218:39",
+  "mapId": "https://fdahle.github.io/luchtfotos-kadaster/maps/dc8d4f9c5d9b4dfec7060dfd17fa437f.json",
+  "resource": [
+   5626.67,
+   3325.19
+  ]
+ }
+]

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Luchtfoto's Kadaster</title>
+<style>
+  :root {
+    --bg: #fbfaf7; --fg: #1d1d1b; --muted: #6b6a66; --line: #e3e0d8;
+    --accent: #1f5f8b; --chip: #efece5; --warn: #9a5b00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #161615; --fg: #ecebe7; --muted: #a3a19b; --line: #33322f;
+            --accent: #7db6dd; --chip: #262523; --warn: #e0a85a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 860px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 1.7rem; margin: 0 0 .3rem; }
+  h2 { font-size: 1.25rem; margin: 2.4rem 0 .4rem; text-transform: capitalize; }
+  p.lede { color: var(--muted); margin: 0 0 1.2rem; }
+  a { color: var(--accent); }
+  .links { display: flex; flex-wrap: wrap; gap: .5rem 1rem; font-size: .92rem; margin: .2rem 0 1rem; }
+  .year { border-top: 1px solid var(--line); padding: .8rem 0; }
+  .year-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1rem; }
+  .year-head strong { font-size: 1.1rem; min-width: 3.2rem; }
+  .frames { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .5rem; }
+  .frame { background: var(--chip); border-radius: 6px; padding: .15rem .55rem; font-size: .85rem;
+           text-decoration: none; color: var(--fg); }
+  .frame span { color: var(--muted); }
+  .frame.failed { color: var(--warn); }
+  .note { color: var(--muted); font-size: .88rem; }
+  code { font-size: .88em; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Luchtfoto's Kadaster</h1>
+  <p class="lede">Historical Kadaster aerial photographs, georeferenced through IIIF and published as
+    Allmaps Georeference Annotations, with Resource Control Points tying the photographs together.
+    Each link opens in the <a href="https://viewer.allmaps.org">Allmaps Viewer</a>.</p>
+  <p class="note">Test set: positions are fitted to the current PDOK orthophoto, working backwards
+    through time, at about 1.5–2.5&nbsp;m RMSE per photo. That is agreement with modern imagery,
+    not surveyed ground control. See the <a href="https://github.com/fdahle/luchtfotos-kadaster">repository</a>
+    for the file layout and method.</p>
+  <div id="sites"><p class="note">Loading catalogue…</p></div>
+</main>
+<script>
+  const viewer = (path) =>
+    "https://viewer.allmaps.org/?url=" + encodeURIComponent(new URL(path, location.href).href);
+
+  function el(tag, attrs = {}, ...children) {
+    const node = document.createElement(tag);
+    for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
+    node.append(...children);
+    return node;
+  }
+
+  fetch("catalog.json")
+    .then((response) => response.json())
+    .then((catalog) => {
+      const root = document.getElementById("sites");
+      root.replaceChildren();
+      for (const site of catalog.sites) {
+        const placed = site.frames.filter((f) => f.status === "ok").length;
+        root.append(
+          el("h2", {}, site.site),
+          el("div", { class: "links" },
+            el("a", { href: viewer(site.annotations) }, `All years (${placed} photos)`),
+            el("a", { href: site.annotations }, "annotations.json"),
+            el("a", { href: site.rcps }, "rcps.json"),
+            el("a", { href: site.report }, "report.json"),
+            el("a", { href: site.manifest }, "IIIF manifest")),
+        );
+        for (const year of site.years) {
+          const frames = site.frames.filter((f) => f.year === year.year);
+          root.append(
+            el("div", { class: "year" },
+              el("div", { class: "year-head" },
+                el("strong", {}, String(year.year)),
+                el("a", { href: viewer(year.annotations) }, `Open ${year.maps} photos in Allmaps`),
+                el("a", { href: year.rcps }, "rcps.json")),
+              el("div", { class: "frames" },
+                ...frames.map((f) =>
+                  f.map
+                    ? el("a", { class: "frame", href: viewer(f.map), title: "Open this photo in Allmaps" },
+                        f.name.replace(/^\d{4}_/, ""), " ", el("span", {}, `${f.rmse_m} m`))
+                    : el("span", { class: "frame failed" }, f.name.replace(/^\d{4}_/, ""), " – not placed")))),
+          );
+        }
+      }
+    })
+    .catch(() => {
+      document.getElementById("sites").replaceChildren(
+        el("p", { class: "note" }, "Could not load catalog.json."));
+    });
+</script>
+</body>
+</html>
