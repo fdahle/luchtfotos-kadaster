@@ -9,6 +9,8 @@ results (`docs/`). The photographs themselves remain the Kadaster's. They are
 served through IIIF from the DLCS heritage infrastructure while the Kadaster
 sets up its own, and the pipeline never downloads a full scan.
 
+**Browse the results:** <https://fdahle.github.io/luchtfotos-kadaster/>
+
 ## Test set (October 2026)
 
 A vertical cut through time for two cities, every available epoch from the
@@ -48,11 +50,11 @@ Known limitations:
 
 ## Published files (`docs/`)
 
-`docs/` is a static site. `docs/index.html` lists every year and photo, with
-links that open them in the Allmaps Viewer. It is not online yet. Once
-publishing is agreed with the Kadaster, it is served by GitHub Pages from
-`docs/` at `https://fdahle.github.io/luchtfotos-kadaster/`. The annotation ids
-already point there.
+`docs/` is a static site, served by GitHub Pages from `main:/docs` at
+<https://fdahle.github.io/luchtfotos-kadaster/>. Its index page lists every
+year and photo, with links that open them in the Allmaps Viewer. Every
+annotation id is the URL the annotation is served from, so the repository
+must not be renamed and Pages must keep serving `docs/`.
 
 | Path | Contents |
 |---|---|
